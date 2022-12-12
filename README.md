@@ -1,6 +1,6 @@
 # pediatric-mNGS-LRTI-classifier
 This repo houses data and code for the analyses in the pre-print ["Leveraging the pulmonary immune response and microbiome for improved lower respiratory tract infection diagnosis in critically ill children"](https://doi.org/10.1101/2022.12.01.22282994) by Mick*, Tsitsiklis*, Kamm* et al., focused on development and validation of a classifier for lower respiratory tract infection (LRTI) in critically ill children using host and microbial features from metagenomic next generation sequencing (mNGS) of tracheal aspirate RNA.
-* Equal contribution
+\* Equal contribution
 
 ## How to get started
 1. Download the repo to your local system.
