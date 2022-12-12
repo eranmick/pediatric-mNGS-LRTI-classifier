@@ -105,10 +105,9 @@ integ_host_microbe_fold <- function(curr_test_fold) {
                 # filter to test set
                 dplyr::filter(fold == curr_test_fold) %>%
                 # add logistic prediction
-                dplyr::mutate(logit_pred=predict(logistic_mod,
-                                                 newdata=., type="response")) %>%
+                dplyr::mutate(pred=predict(logistic_mod, newdata=., type="response")) %>%
                 # return the important variables
-                dplyr::select(sample_name, logit_pred)
+                dplyr::select(sample_name, pred)
 }
 
 ## Run on all 5 train-test splits
