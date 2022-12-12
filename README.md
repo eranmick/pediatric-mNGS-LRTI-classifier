@@ -7,7 +7,7 @@ This repo houses data and code for the analyses in the pre-print ["Leveraging th
 3. Set the R working directory to the `code` folder in the repo.
 4. Run the numbered scripts in the `code` folder in order.
 
-## Raw data in the repo
+## Data in the repo
 
 Sample metadata is at `data/metatable.csv`. This table has the following fields:
 1. `CZB_ID` - unique sample identifier.
