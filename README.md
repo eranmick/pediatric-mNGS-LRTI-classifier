@@ -19,7 +19,7 @@ This repo houses data and code for the analyses in the pre-print ["Leveraging th
 1. `01-generate_cv_folds.R` - Randomly splits the samples with "Definite" or "No Evidence" LRTI status into 5 folds for cross-validation.
 2. `02-filter_transform_host_counts_for_cv.R` - Filters the host counts for the cross-validation samples and applies the variance stablizing transformation, as implemented in DESeq2.
 3. `03-host_lasso_cv.R` - Selects features (genes) for use in a host-based LRTI classifier for each train/test split, as well as for the full Definite/No Evidence dataset, using lasso logistic regression.
-4. `04-host_lassoRF_cv.R` - Trains a random forest model on the training samples and with the selected host genes of each train/test split, and then generates out-of-fold LRTI probabilities.
+4. `04-host_lassoRF_cv.R` - Trains a random forest model for each train/test split using its respective training samples and selected genes, and then generates out-of-fold LRTI probabilities.
 5. `05-microbe_background_filtering.R` - Generates background filtering statistics on the microbial taxa using a negative binomial model trained on the water samples, as implemented in `idseqr.R`. [idseqr](https://github.com/czbiohub/idseqr) is a package for working with output from the CZ-ID pipeline in R that is currently in alpha stage. Further details on the background filtering process are available in the publication Methods section.
 6. `06-microbe_viral_hits_and_RBM.R` - Outputs i) likely pathogenic viral taxa present in patient samples after background filtering, and ii) microbial/fungal taxa identified by a rules-based model (RBM) as potential pathogens.
 7. `07-calc_bac_vir_scores.R` - Calculates summary viral and bacterial/fungal scores for all patient samples.
