@@ -1,0 +1,186 @@
+"sample_name","LRTI_adjudication","name","tax_id","genus_tax_id","nt_rpm"
+"P73","Suspected","Human orthopneumovirus",11250,1868215,3300.356517
+"P78","Definite","Human orthopneumovirus",11250,1868215,1157.691994
+"P49","Definite","Human orthopneumovirus",11250,1868215,235.7853065
+"P53","Definite","Human orthopneumovirus",11250,1868215,69.42894798
+"P53","Definite","Betacoronavirus 1",694003,694002,0.093895409
+"P54","Definite","Human orthopneumovirus",11250,1868215,103.9479069
+"P48","Definite","Human orthopneumovirus",11250,1868215,227.2783928
+"P55","Definite","Human orthopneumovirus",11250,1868215,17.8557464
+"P47","Definite","Human orthopneumovirus",11250,1868215,3075.270266
+"P56","Definite","Human orthopneumovirus",11250,1868215,58.71656699
+"P56","Definite","Human bocavirus",329641,1507401,2.497980144
+"P56","Definite","Primate bocaparvovirus 1",1511871,1507401,41.84818422
+"P70","Definite","Human orthopneumovirus",11250,1868215,1217.63745
+"P80","Definite","Influenza A virus",11320,197911,18.59346915
+"P61","Suspected","Human orthopneumovirus",11250,1868215,1.681353198
+"P60","Definite","Human orthopneumovirus",11250,1868215,39.35717645
+"P65","Definite","Human orthopneumovirus",11250,1868215,0.389479452
+"P68","Suspected","Human orthopneumovirus",11250,1868215,3467.17816
+"P81","Definite","Influenza A virus",11320,197911,15.68058415
+"P112","Indeterminate","Human coronavirus 229E",11137,693996,46.56571594
+"P117","Definite","Rhinovirus C",463676,12059,17.07110104
+"P132","Definite","Influenza B virus",11520,197912,193.7682199
+"P153","Suspected","Rhinovirus A",147711,12059,105.1866464
+"P140","Definite","Human orthopneumovirus",11250,1868215,630.6636665
+"P143","Definite","Rhinovirus A",147711,12059,80.77053807
+"P100","Definite","Influenza A virus",11320,197911,0.534108691
+"P77","Definite","Human orthopneumovirus",11250,1868215,572.8453421
+"P77","Definite","Rhinovirus A",147711,12059,31.15505676
+"P86","Definite","Rhinovirus A",147711,12059,0.70383959
+"P87","Definite","Human orthopneumovirus",11250,1868215,692.7363393
+"P89","Indeterminate","Human orthopneumovirus",11250,1868215,827.3225153
+"P91","Definite","Human orthopneumovirus",11250,1868215,161.9114944
+"P93","Definite","Human orthopneumovirus",11250,1868215,659.3688261
+"P93","Definite","Betacoronavirus 1",694003,694002,324.6720699
+"P93","Definite","Human metapneumovirus",162145,162387,39.60733894
+"P94","Definite","Human orthopneumovirus",11250,1868215,757.0642643
+"P97","Definite","Human orthopneumovirus",11250,1868215,1269.47622
+"P105","Definite","Human metapneumovirus",162145,162387,14.20882337
+"P107","Definite","Human orthopneumovirus",11250,1868215,4025.630619
+"P106","Definite","Human orthopneumovirus",11250,1868215,2452.520995
+"P111","Definite","Human orthopneumovirus",11250,1868215,2.593606265
+"P115","Definite","Human orthopneumovirus",11250,1868215,637.3529398
+"P120","Suspected","Human bocavirus",329641,1507401,14.87939194
+"P129","Definite","Human orthopneumovirus",11250,1868215,135.6999325
+"P129","Definite","Human respirovirus 3",11216,186938,0.458703997
+"P32","Indeterminate","Rhinovirus A",147711,12059,66.81904558
+"P50","Definite","Human orthopneumovirus",11250,1868215,1.008839146
+"P69","Definite","Human orthopneumovirus",11250,1868215,7.297943723
+"P41","Definite","Human orthopneumovirus",11250,1868215,73.8420841
+"P64","Definite","Human orthopneumovirus",11250,1868215,1581.335197
+"P63","Definite","Human orthopneumovirus",11250,1868215,56.1927233
+"P126","Suspected","Human bocavirus",329641,1507401,1.316100838
+"P126","Suspected","Primate bocaparvovirus 1",1511871,1507401,1.297432741
+"P51","No Evidence","Human orthopneumovirus",11250,1868215,0.134780081
+"P182","No Evidence","Rhinovirus C",463676,12059,30.82025672
+"P196","No Evidence","Rhinovirus A",147711,12059,0.770509667
+"P199","Definite","Human orthopneumovirus",11250,1868215,1974.714317
+"P206","Definite","Human orthopneumovirus",11250,1868215,203.3442319
+"P209","Definite","Human rubulavirus 4",1979161,39744,256.8996768
+"P216","Definite","Human orthopneumovirus",11250,1868215,31.99384496
+"P220","Definite","Human orthopneumovirus",11250,1868215,15.0608627
+"P213","Suspected","Rhinovirus C",463676,12059,3468.400355
+"P200","Suspected","Rhinovirus C",463676,12059,267.7343841
+"P223","Definite","Human orthopneumovirus",11250,1868215,205.9119764
+"P226","No Evidence","Rhinovirus A",147711,12059,0.476548883
+"P227","Definite","Human orthopneumovirus",11250,1868215,443.9498756
+"P235","Definite","Rhinovirus A",147711,12059,270.4536007
+"P259","Definite","Human rubulavirus 4",1979161,39744,53.95122311
+"P233","Definite","Human orthopneumovirus",11250,1868215,56.56798716
+"P241","Definite","Human orthopneumovirus",11250,1868215,77.11431779
+"P241","Definite","Human respirovirus 1",12730,186938,0.483307006
+"P244","Definite","Human orthopneumovirus",11250,1868215,505.7776771
+"P245","Definite","Human orthopneumovirus",11250,1868215,125.3798921
+"P246","Definite","Human orthopneumovirus",11250,1868215,682.6612816
+"P251","Definite","Human orthopneumovirus",11250,1868215,2010.417156
+"P252","Definite","Human orthopneumovirus",11250,1868215,58.19871794
+"P253","Definite","Human orthopneumovirus",11250,1868215,583.6797925
+"P253","Definite","Human respirovirus 1",12730,186938,46.70790233
+"P256","Definite","Human metapneumovirus",162145,162387,0.73276059
+"P257","Definite","Betacoronavirus 1",694003,694002,289.6451148
+"P257","Definite","Human orthopneumovirus",11250,1868215,16.94147031
+"P255","Definite","Human orthopneumovirus",11250,1868215,88.87348978
+"P261","Definite","Human orthopneumovirus",11250,1868215,386.6390719
+"P260","Definite","Human orthopneumovirus",11250,1868215,1072.667953
+"P249","Definite","Human orthopneumovirus",11250,1868215,2523.201469
+"P30","No Evidence","Rhinovirus C",463676,12059,22.14628587
+"P164","Definite","Human bocavirus",329641,1507401,14.79555795
+"P183","Suspected","Rhinovirus A",147711,12059,3121.333301
+"P189","Definite","Human betaherpesvirus 5",10359,10358,0.375405266
+"P198","Suspected","Rhinovirus C",463676,12059,1690.014838
+"P201","Definite","Human orthopneumovirus",11250,1868215,95.60428034
+"P201","Definite","Human mastadenovirus B",108098,10509,0.225786087
+"P205","Definite","Influenza A virus",11320,197911,20.83648665
+"P210","Definite","Human orthopneumovirus",11250,1868215,1508.437725
+"P211","Suspected","Rhinovirus C",463676,12059,42.21728165
+"P214","Definite","Human metapneumovirus",162145,162387,0.341536803
+"P230","Definite","Rhinovirus A",147711,12059,2518.316633
+"P231","Definite","Human orthopneumovirus",11250,1868215,1053.527491
+"P239","Suspected","Rhinovirus C",463676,12059,9287.638368
+"P239","Suspected","Parechovirus A",1803956,138954,0.650484958
+"P240","Definite","Human metapneumovirus",162145,162387,5.393160353
+"P242","Definite","Human orthopneumovirus",11250,1868215,254.3250366
+"P38","Definite","Human orthopneumovirus",11250,1868215,408.3401459
+"P145","Suspected","Rhinovirus A",147711,12059,720.3677093
+"P149","Suspected","Rhinovirus A",147711,12059,10896.35524
+"P151","Definite","Human respirovirus 3",11216,186938,0.118362871
+"P212","Indeterminate","Rhinovirus A",147711,12059,2.053926191
+"P238","Indeterminate","Human coronavirus NL63",277944,693996,11.26251641
+"P238","Indeterminate","Parechovirus A",1803956,138954,0.981381098
+"P35","Indeterminate","Human orthopneumovirus",11250,1868215,2.125498414
+"P35","Indeterminate","Rhinovirus C",463676,12059,0.303642631
+"P44","Indeterminate","Rhinovirus C",463676,12059,3262.821135
+"P46","Indeterminate","Human orthopneumovirus",11250,1868215,400.3733333
+"P29","Suspected","Rhinovirus A",147711,12059,0.516325294
+"P52","Definite","Human orthopneumovirus",11250,1868215,83.22346346
+"P33","Definite","Human orthopneumovirus",11250,1868215,2118.624225
+"P31","Definite","Rhinovirus C",463676,12059,204.1620269
+"P31","Definite","Human rubulavirus 2",1979160,39744,46.31546145
+"P224","Suspected","Rhinovirus A",147711,12059,233.0080744
+"P136","Definite","Human orthopneumovirus",11250,1868215,2605.821576
+"P137","Definite","Human orthopneumovirus",11250,1868215,1306.619775
+"P158","Definite","Human respirovirus 3",11216,186938,3777.454863
+"P168","Suspected","Influenza C virus",11552,197913,2063.122058
+"P180","Definite","Rhinovirus A",147711,12059,979.0997103
+"P139","Definite","Human orthopneumovirus",11250,1868215,401.4876792
+"P207","Suspected","Human respirovirus 1",12730,186938,146.3346494
+"P74","Suspected","Rhinovirus A",147711,12059,408.6513575
+"P162","Suspected","Rhinovirus A",147711,12059,2695.431583
+"P147","Suspected","Rhinovirus A",147711,12059,169.0222835
+"P71","Definite","Human orthopneumovirus",11250,1868215,801.080006
+"P71","Definite","Human rubulavirus 2",1979160,39744,0.095211759
+"P114","Suspected","Human metapneumovirus",162145,162387,149.1900715
+"P58","Suspected","Human orthopneumovirus",11250,1868215,2679.188733
+"P96","Suspected","Human orthopneumovirus",11250,1868215,41.15919327
+"P103","Definite","Human metapneumovirus",162145,162387,32847.23438
+"P133","Suspected","Human metapneumovirus",162145,162387,5231.530655
+"P127","Suspected","Rhinovirus A",147711,12059,15602.3147
+"P204","Definite","Human respirovirus 1",12730,186938,861.3558389
+"P9","Definite","Human orthopneumovirus",11250,1868215,25.86476
+"P10","Definite","Human metapneumovirus",162145,162387,5.843987415
+"P11","Definite","Human orthopneumovirus",11250,1868215,2538.136371
+"P12","Definite","Human orthopneumovirus",11250,1868215,2656.768927
+"P13","Definite","Human metapneumovirus",162145,162387,515.0082442
+"P20","Definite","Rhinovirus A",147711,12059,39.42929655
+"P20","Definite","Human metapneumovirus",162145,162387,9.351941442
+"P20","Definite","Betacoronavirus 1",694003,694002,1.001318983
+"P16","Definite","Rhinovirus A",147711,12059,5676.556972
+"P18","Indeterminate","Human respirovirus 1",12730,186938,0.251923099
+"P17","Definite","Human orthopneumovirus",11250,1868215,1477.21477
+"P4","Definite","Human orthopneumovirus",11250,1868215,38.54319538
+"P6","Definite","Human rubulavirus 4",1979161,39744,85.83049918
+"P6","Definite","Human coronavirus NL63",277944,693996,1.784199665
+"P8","Definite","Human orthopneumovirus",11250,1868215,0.507237634
+"P7","Definite","Human orthopneumovirus",11250,1868215,313.5309945
+"P109","Definite","Human orthopneumovirus",11250,1868215,1371.40023
+"P128","Definite","Human orthopneumovirus",11250,1868215,230.1333333
+"P167","Indeterminate","Rhinovirus A",147711,12059,9.488040443
+"P123","Suspected","Rhinovirus A",147711,12059,711.7348652
+"P37","Definite","Rhinovirus C",463676,12059,307.3800123
+"P67","Indeterminate","Human rubulavirus 2",1979160,39744,15.07159822
+"P83","Suspected","Human orthopneumovirus",11250,1868215,242.6866731
+"P72","Definite","Human orthopneumovirus",11250,1868215,1335.78672
+"P75","No Evidence","Human orthopneumovirus",11250,1868215,44.53424259
+"P79","Definite","Human orthopneumovirus",11250,1868215,116.0075151
+"P99","Definite","Human orthopneumovirus",11250,1868215,4.254950804
+"P135","Definite","Rhinovirus A",147711,12059,30.88666708
+"P174","Suspected","Rhinovirus C",463676,12059,605.8266747
+"P175","No Evidence","Human coronavirus NL63",277944,693996,4.334103545
+"P179","Indeterminate","Rhinovirus A",147711,12059,38.11673702
+"P82","Indeterminate","Rhinovirus C",463676,12059,717.0094422
+"P124","Definite","Human coronavirus 229E",11137,693996,41.58482894
+"P121","Definite","Human orthopneumovirus",11250,1868215,1.752267277
+"P146","Suspected","Rhinovirus A",147711,12059,8.119573324
+"P156","Definite","Human mastadenovirus C",129951,10509,7.576292583
+"P156","Definite","Rhinovirus A",147711,12059,1.29830493
+"P95","Suspected","Human bocavirus",329641,1507401,4.819065607
+"P95","Suspected","Primate bocaparvovirus 1",1511871,1507401,77.55568752
+"P22","Definite","Rhinovirus A",147711,12059,2.753809616
+"P23","Indeterminate","Human rubulavirus 4",1979161,39744,11.20802614
+"P24","Indeterminate","Rhinovirus A",147711,12059,0.075920037
+"P3","Definite","Rhinovirus C",463676,12059,2.15141214
+"P1","No Evidence","Human coronavirus NL63",277944,693996,44.93787988
+"P5","Definite","Human orthopneumovirus",11250,1868215,49.01085143
+"P5","Definite","Rhinovirus A",147711,12059,0.068661882
+"P28","Indeterminate","Human respirovirus 3",11216,186938,1496.220377

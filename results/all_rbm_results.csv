@@ -1,0 +1,359 @@
+"sample_name","LRTI_adjudication","name","pathogen","tax_id","genus_tax_id","nt_count","nt_rpm","genus_sum_nt_rpm"
+"P1","No Evidence","Pseudomonas aeruginosa",TRUE,287,286,53886,372.5419377,372.5419377
+"P2","Definite","Staphylococcus aureus",TRUE,1280,1279,96259,1470.276777,1470.765550588
+"P3","Definite","Staphylococcus epidermidis",FALSE,1282,1279,93226,655.4495037,655.4495037
+"P3","Definite","Veillonella atypica",FALSE,39777,29465,66827,469.8445068,469.8445068
+"P3","Definite","Streptococcus salivarius",FALSE,1304,1301,47607,334.7133259,968.73307735
+"P4","Definite","Moraxella catarrhalis",TRUE,480,475,22060,339.8332894,339.987338942
+"P5","Definite","Pandoraea thiooxydans",FALSE,445709,93217,17665,121.2912147,121.2912147
+"P6","Definite","Prevotella jejuni",FALSE,1177574,838,120247,1262.027395,2592.127254898
+"P6","Definite","Candida albicans",FALSE,5476,1535326,84562,887.5028946,914.843130646
+"P6","Definite","Streptococcus agalactiae",FALSE,1311,1301,61901,649.6690792,941.553649143
+"P7","Definite","Haemophilus influenzae",TRUE,727,724,422645,6608.763012,6631.51437587
+"P8","Definite","Haemophilus influenzae",TRUE,727,724,1286763,16317.3655,16791.531240586
+"P9","Definite","Haemophilus influenzae",TRUE,727,724,21943,416.0926896,416.0926896
+"P10","Definite","Moraxella catarrhalis",TRUE,480,475,1531,27.27788028,27.27788028
+"P11","Definite","Pneumocystis jirovecii",TRUE,42068,4753,276,4.298731834,4.298731834
+"P11","Definite","Streptococcus pseudopneumoniae",FALSE,257758,1301,152,2.367417532,3.582276529
+"P12","Definite","Corynebacterium lactis",FALSE,1231000,1716,101,1.195878732,1.480047936
+"P12","Definite","Rhodospirillum centenum",FALSE,34018,1081,89,1.05379413,1.05379413
+"P13","Definite","Haemophilus haemolyticus",FALSE,726,724,951,10.40741267,10.702891263
+"P13","Definite","Neisseria sicca",FALSE,490,482,588,6.434867139,9.882117392
+"P14","No Evidence","Prevotella melaninogenica",FALSE,28132,838,30505,430.0748002,555.072117957
+"P14","No Evidence","Neisseria subflava",FALSE,28449,482,24707,348.3316862,857.795150504
+"P14","No Evidence","Haemophilus parainfluenzae",FALSE,729,724,24603,346.865442,354.351746504
+"P15","Indeterminate","Streptococcus pneumoniae",TRUE,1313,1301,257743,3110.957313,3129.822718774
+"P16","Definite","Neisseria mucosa",FALSE,488,482,13008,189.6978659,271.596944533
+"P17","Definite","Streptococcus pneumoniae",TRUE,1313,1301,332,3.135374655,3.522574537
+"P18","Indeterminate","Streptococcus mitis",FALSE,28037,1301,1469,14.23365507,16.888536955
+"P19","No Evidence","Streptococcus oralis",FALSE,1303,1301,2528,29.27632899,50.006008135
+"P20","Definite","Haemophilus influenzae",TRUE,727,724,54337,513.2893355,513.364906744
+"P21","Suspected","Streptococcus mitis",FALSE,28037,1301,418,5.469060947,7.22230058
+"P22","Definite","Moraxella catarrhalis",TRUE,480,475,730089,5102.858144,5105.437219503
+"P23","Indeterminate","Neisseria lactamica",FALSE,486,482,78598,1026.723122,1977.916165466
+"P23","Indeterminate","Haemophilus influenzae",TRUE,727,724,74036,967.1298638,1062.607093456
+"P24","Indeterminate","Streptococcus sp. ChDC B345",FALSE,1433513,1301,18595,176.466637,302.712169315
+"P25","No Evidence","Capnocytophaga leadbetteri",FALSE,327575,1016,21383,207.1578195,312.165704539
+"P26","Indeterminate","Neisseria subflava",FALSE,28449,482,232251,2795.633981,5385.746114282
+"P27","No Evidence","Neisseria subflava",FALSE,28449,482,1463,91.45919869,91.45919869
+"P27","No Evidence","Haemophilus parainfluenzae",FALSE,729,724,1197,74.83025348,76.518153934
+"P27","No Evidence","Streptococcus salivarius",FALSE,1304,1301,927,57.95124893,71.266908069
+"P27","No Evidence","Veillonella atypica",FALSE,39777,29465,601,37.57141382,39.071769779
+"P28","Indeterminate","Haemophilus influenzae",TRUE,727,724,413005,2885.483532,2890.14356642
+"P28","Indeterminate","Moraxella catarrhalis",TRUE,480,475,386196,2698.180889,2701.716087526
+"P29","Suspected","Neisseria subflava",FALSE,28449,482,1999,16.12709786,16.538544579
+"P29","Suspected","Haemophilus parainfluenzae",FALSE,729,724,1971,15.90120554,16.207773683
+"P30","No Evidence","Moraxella catarrhalis",TRUE,480,475,242471,6258.54555,6258.958534352
+"P31","Definite","Streptococcus pneumoniae",TRUE,1313,1301,18,0.300532915,0.300532915
+"P31","Definite","Neisseria zoodegmatis",FALSE,326523,482,17,0.283836642,0.283836642
+"P32","Indeterminate","Haemophilus influenzae",TRUE,727,724,333041,2221.793307,2221.926731612
+"P33","Definite","Streptococcus pseudopneumoniae",FALSE,257758,1301,1442,17.58508106,33.4628727
+"P34","No Evidence","Escherichia coli",TRUE,562,561,56,1.083811952,1.083811952
+"P34","No Evidence","Candidatus Aquiluna sp. UB-MaderosW2red",FALSE,1855377,529881,49,0.948335458,0.948335458
+"P35","Indeterminate","Pseudomonas fluorescens",FALSE,294,286,357,5.420020956,11.61433062
+"P35","Indeterminate","Streptococcus pneumoniae",TRUE,1313,1301,301,4.569821591,6.482770163
+"P35","Indeterminate","Neisseria sicca",FALSE,490,482,279,4.235814697,5.420020956
+"P35","Indeterminate","Afipia sp. GAS231",FALSE,1882747,1033,244,3.704440093,3.704440093
+"P36","Suspected","Moraxella catarrhalis",TRUE,480,475,592044,3946.960105,4819.066794905
+"P37","Definite","Moraxella catarrhalis",TRUE,480,475,95114,634.0933587,634.0933587
+"P37","Definite","Prevotella melaninogenica",FALSE,28132,838,93276,621.8400249,729.073362521
+"P38","Definite","Haemophilus influenzae",TRUE,727,724,2980,49.53607307,49.53607307
+"P39","Suspected","Mycoplasma pneumoniae",TRUE,2104,2093,274485,1996.013921,1996.101183208
+"P40","No Evidence","Pseudomonas azotoformans",FALSE,47878,286,2487,40.65136597,67.196528147
+"P41","Definite","Haemophilus influenzae",TRUE,727,724,4128,68.3453191,68.3453191
+"P42","No Evidence","Rhodovulum sp. MB263",FALSE,308754,34008,777,8.003934186,8.003934186
+"P43","No Evidence","Neisseria meningitidis",FALSE,487,482,243657,9729.501038,22786.743236364
+"P43","No Evidence","Haemophilus haemolyticus",FALSE,726,724,216053,8627.241933,21275.948669476
+"P43","No Evidence","Haemophilus influenzae",TRUE,727,724,182843,7301.128875,21275.948669476
+"P44","Indeterminate","Cucurbita maxima",FALSE,3661,3660,96,0.844310706,0.844310706
+"P44","Indeterminate","Kocuria turfanensis",FALSE,388357,57493,90,0.791541287,1.099362899
+"P45","Definite","Moraxella catarrhalis",TRUE,480,475,68843,738.3306689,738.395017984
+"P45","Definite","Haemophilus influenzae",TRUE,727,724,40662,436.0937446,436.512013648
+"P46","Indeterminate","Streptococcus mitis",FALSE,28037,1301,116,0.773333333,1.493333333
+"P47","Definite","Moraxella catarrhalis",TRUE,480,475,12199,97.12829708,97.12829708
+"P48","Definite","Klebsiella variicola",FALSE,244366,570,31289,208.7755749,293.5429022
+"P49","Definite","Haemophilus influenzae",TRUE,727,724,1264324,10368.28818,10703.334245721
+"P50","Definite","Haemophilus influenzae",TRUE,727,724,1336511,42135.14423,43244.01608205
+"P51","No Evidence","Moraxella catarrhalis",TRUE,480,475,49863,420.0336977,420.0336977
+"P51","No Evidence","Streptococcus agalactiae",FALSE,1311,1301,43863,369.4911675,457.940595452
+"P52","Definite","Haemophilus haemolyticus",FALSE,726,724,152099,3175.666224,6535.985812036
+"P52","Definite","Neisseria elongata",FALSE,495,482,130523,2725.182168,5249.133091202
+"P52","Definite","Moraxella catarrhalis",TRUE,480,475,114620,2393.144351,3342.11315121
+"P52","Definite","Eikenella corrodens",FALSE,539,538,98252,2051.397825,2051.397825
+"P53","Definite","Ralstonia solanacearum",FALSE,305,48736,5084,34.09744702,34.09744702
+"P53","Definite","Ethanoligenens harbinense",FALSE,253239,253238,4959,33.25909515,33.25909515
+"P54","Definite","Haemophilus influenzae",TRUE,727,724,3452,33.96707445,34.124511643
+"P54","Definite","Moraxella catarrhalis",TRUE,480,475,1893,18.62678793,18.62678793
+"P55","Definite","Haemophilus influenzae",TRUE,727,724,152146,1116.138206,1116.350949075
+"P56","Definite","Haemophilus influenzae",TRUE,727,724,72278,507.1601373,507.398708437
+"P57","Definite","Streptococcus pneumoniae",TRUE,1313,1301,3602,42.47053032,42.47053032
+"P58","Suspected","Streptococcus pneumoniae",TRUE,1313,1301,610,19.76854469,25.990775151
+"P59","No Evidence","Actinomyces meyeri",FALSE,52773,1654,4282,28.54666743,53.333334752
+"P59","No Evidence","Massilia oculi",FALSE,945844,149698,4060,27.06666739,34.953334267
+"P60","Definite","Massilia sp. WG5",FALSE,1707785,149698,2824,18.8572559,31.32414569
+"P60","Definite","Haemophilus influenzae",TRUE,727,724,2293,15.31150417,15.31150417
+"P61","Suspected","Micrococcus luteus",FALSE,1270,1269,1782,11.88956904,11.88956904
+"P62","Indeterminate","Aspergillus niger",TRUE,5061,5052,9353,75.07513413,76.857094974
+"P63","Definite","Haemophilus influenzae",TRUE,727,724,875126,11554.44388,11860.295486027
+"P64","Definite","Haemophilus influenzae",TRUE,727,724,294,3.638866871,3.638866871
+"P65","Definite","Haemophilus influenzae",TRUE,727,724,1273600,19078.50115,19319.364231035
+"P66","Suspected","Haemophilus influenzae",TRUE,727,724,15512,110.5234766,110.5234766
+"P67","Indeterminate","Neisseria polysaccharea",FALSE,489,482,40066,350.2660408,462.262702529
+"P68","Suspected","Streptococcus mitis",FALSE,28037,1301,20570,146.9001064,147.142916494
+"P68","Suspected","Asterionella formosa",FALSE,210441,35129,16824,120.1481473,120.1481473
+"P69","Definite","Haemophilus influenzae",TRUE,727,724,1395,20.60856578,20.60856578
+"P70","Definite","Pseudomonas azotoformans",FALSE,47878,286,370,2.89839074,3.501569354
+"P70","Definite","Sphingomonas wittichii",FALSE,160791,13687,276,2.162042822,4.183082851
+"P70","Definite","Rhodotorula glutinis",FALSE,5535,5533,262,2.052373983,2.162042822
+"P71","Definite","Haemophilus influenzae",TRUE,727,724,51068,810.3790212,1077.3686631
+"P72","Definite","Haemophilus influenzae",TRUE,727,724,220,1.466666725,1.466666725
+"P73","Suspected","Pneumocystis jirovecii",TRUE,42068,4753,14,0.093386242,0.093386242
+"P74","Suspected","Prevotella melaninogenica",FALSE,28132,838,6270,117.5503056,118.487708356
+"P75","No Evidence","Prevotella jejuni",FALSE,1177574,838,1272,10.00133414,15.324371257
+"P76","No Evidence","Pseudomonas aeruginosa",TRUE,287,286,3915,26.10347211,26.10347211
+"P76","No Evidence","Cyclotella cryptica",FALSE,29204,29203,3481,23.20975387,23.20975387
+"P76","No Evidence","Thalassiosira pseudonana",FALSE,35128,35127,3366,22.44298522,22.44298522
+"P76","No Evidence","Prevotella sp. oral taxon 299",FALSE,652716,838,3317,22.11627509,42.799026171
+"P76","No Evidence","Streptococcus sp. oral taxon 431",FALSE,712633,1301,2903,19.35590793,24.92998269
+"P76","No Evidence","Conticribra weissflogii",FALSE,1577725,1577724,2385,15.90211519,15.90211519
+"P76","No Evidence","Navicula ramosissima",FALSE,265559,50949,2309,15.39538112,15.39538112
+"P77","Definite","Tannerella sp. oral taxon HOT-286",FALSE,712710,195950,1271,14.97657986,14.97657986
+"P77","Definite","Veillonella parvula",FALSE,29466,29465,1050,12.37246959,12.584569069
+"P78","Definite","Streptococcus pneumoniae",TRUE,1313,1301,148775,992.1121301,992.5389167
+"P79","Definite","Haemophilus influenzae",TRUE,727,724,16105,115.727269,115.770383785
+"P80","Definite","Tannerella sp. oral taxon HOT-286",FALSE,712710,195950,951,6.342320359,6.342320359
+"P81","Definite","Moraxella osloensis",FALSE,34062,475,1478,9.853700417,9.853700417
+"P81","Definite","Cutibacterium acnes",FALSE,1747,1912216,982,6.546910561,6.600245881
+"P82","Indeterminate","Streptococcus sp. NPS 308",FALSE,1902136,1301,320,3.633129408,3.712604114
+"P82","Indeterminate","Prevotella melaninogenica",FALSE,28132,838,309,3.508240585,3.962381761
+"P83","Suspected","Moraxella catarrhalis",TRUE,480,475,4746,31.64000084,31.64000084
+"P84","No Evidence","Candida albicans",FALSE,5476,1535326,417,3.293357346,3.482903093
+"P85","No Evidence","Porphyromonas gingivalis",FALSE,837,836,150,1.268900592,2.174049681
+"P85","No Evidence","Streptococcus mitis",FALSE,28037,1301,146,1.235063242,2.630853893
+"P85","No Evidence","Rothia mucilaginosa",FALSE,43675,32207,144,1.218144568,1.218144568
+"P86","Definite","Salmonella enterica",FALSE,28901,590,159,3.108624854,3.108624854
+"P86","Definite","Prevotella melaninogenica",FALSE,28132,838,151,2.952216057,3.792913345
+"P87","Definite","Moraxella catarrhalis",TRUE,480,475,3832,25.64723392,25.64723392
+"P87","Definite","Panicum hallii",FALSE,206008,4539,2565,17.16731602,17.16731602
+"P88","No Evidence","Tropheryma whipplei",FALSE,2039,2038,1415,32.35242902,32.35242902
+"P89","Indeterminate","Haemophilus influenzae",TRUE,727,724,10768,133.8292073,133.8292073
+"P90","Suspected","Prevotella melaninogenica",FALSE,28132,838,14136,116.20823,131.227502514
+"P91","Definite","Moraxella catarrhalis",TRUE,480,475,68926,841.1782363,841.1782363
+"P92","No Evidence","Neisseria sicca",FALSE,490,482,54265,397.4026644,432.950301602
+"P93","Definite","Haemophilus influenzae",TRUE,727,724,5459,53.65172785,53.65172785
+"P94","Definite","Streptococcus pneumoniae",TRUE,1313,1301,587,6.826370556,6.826370556
+"P95","Suspected","Juglans regia",FALSE,51240,16718,1839,16.91271307,16.91271307
+"P96","Suspected","Campylobacter concisus",FALSE,199,194,17191,241.161449,241.161449
+"P96","Suspected","Prevotella jejuni",FALSE,1177574,838,13446,188.6252599,239.912925398
+"P97","Definite","Moraxella catarrhalis",TRUE,480,475,69394,911.2107495,911.2107495
+"P98","No Evidence","Haemophilus parainfluenzae",FALSE,729,724,114612,1122.518356,1324.0118308
+"P98","No Evidence","Veillonella parvula",FALSE,29466,29465,113086,1107.572599,2016.335299827
+"P99","Definite","Haemophilus influenzae",TRUE,727,724,103720,972.0781881,972.509306463
+"P100","Definite","Candidatus Filomicrobium marinum",FALSE,1608628,119044,4037,98.00894477,98.00894477
+"P101","Suspected","Neisseria mucosa",FALSE,488,482,563466,3756.44015,7445.686963851
+"P102","Suspected","Moraxella catarrhalis",TRUE,480,475,26222,206.7896074,206.836924067
+"P102","Suspected","Streptococcus mitis",FALSE,28037,1301,23247,183.3284266,196.89253783
+"P103","Definite","Mycoplasma arthritidis",FALSE,2111,2093,33524,1031.543558,1882.865465531
+"P103","Definite","Capnocytophaga leadbetteri",FALSE,327575,1016,26398,812.274396,1005.081099731
+"P103","Definite","Ottowia sp. oral taxon 894",FALSE,1658672,219181,23238,715.040246,715.440259908
+"P103","Definite","uncultured Paracoccus sp.",FALSE,189685,265,17402,535.4647715,774.580777686
+"P104","No Evidence","Haemophilus influenzae",TRUE,727,724,159,1.060000057,1.060000057
+"P105","Definite","Haemophilus influenzae",TRUE,727,724,300154,3565.915694,3567.210645294
+"P106","Definite","Pelomonas saccharophila",FALSE,304,335058,1241,16.37935267,16.37935267
+"P106","Definite","Moraxella bovoculi",FALSE,386891,475,1068,14.0960102,17.567218703
+"P107","Definite","Moraxella catarrhalis",TRUE,480,475,465,5.506160102,5.506160102
+"P108","No Evidence","Streptococcus pseudopneumoniae",FALSE,257758,1301,997,6.647842714,7.828051501
+"P109","Definite","Haemophilus influenzae",TRUE,727,724,612243,4199.09575,4210.474075029
+"P110","Indeterminate","Moraxella catarrhalis",TRUE,480,475,410480,7145.842701,7147.357240844
+"P111","Definite","Moraxella catarrhalis",TRUE,480,475,2946,33.51212305,33.51212305
+"P112","Indeterminate","Streptococcus pseudopneumoniae",FALSE,257758,1301,9627,78.1534427,100.299759487
+"P112","Indeterminate","Rothia mucilaginosa",FALSE,43675,32207,8757,71.09065106,71.09065106
+"P113","Indeterminate","Bacteroides vulgatus",FALSE,821,816,658,5.356503473,5.356503473
+"P114","Suspected","Moraxella catarrhalis",TRUE,480,475,326,5.098109361,5.098109361
+"P115","Definite","Moraxella catarrhalis",TRUE,480,475,241844,2459.35356,2459.35356
+"P116","No Evidence","Neisseria sicca",FALSE,490,482,64,0.954079384,1.818713825
+"P117","Definite","Streptococcus mitis",FALSE,28037,1301,5634,37.62855371,38.890853435
+"P118","Indeterminate","Haemophilus influenzae",TRUE,727,724,71494,482.4130179,608.060104442
+"P118","Indeterminate","Psychrobacter sp. G",FALSE,571800,497,67133,452.9867279,1098.684953137
+"P118","Indeterminate","Carnobacterium sp. CP1",FALSE,1564681,2747,55036,371.3609932,372.285414598
+"P119","No Evidence","Neisseria subflava",FALSE,28449,482,98708,1138.07105,1153.048096379
+"P120","Suspected","Salmonella enterica",FALSE,28901,590,42,0.617524172,0.617524172
+"P120","Suspected","Streptomyces globisporus",FALSE,1908,1883,40,0.588118259,0.588118259
+"P121","Definite","Haemophilus influenzae",TRUE,727,724,125849,1125.107574,1125.295316923
+"P122","No Evidence","Neisseria subflava",FALSE,28449,482,204591,1660.954146,1676.289827336
+"P123","Suspected","Moraxella catarrhalis",TRUE,480,475,12537,106.8753145,106.8753145
+"P124","Definite","Haemophilus parainfluenzae",FALSE,729,724,4200,31.56058575,61.798632667
+"P125","No Evidence","Haemophilus influenzae",TRUE,727,724,80402,2477.342738,2477.743293404
+"P126","Suspected","Streptococcus mitis",FALSE,28037,1301,404,3.770955592,5.376411934
+"P126","Suspected","Rothia mucilaginosa",FALSE,43675,32207,401,3.742953447,3.742953447
+"P127","Suspected","Propionibacterium freudenreichii",FALSE,1744,1743,348,5.594584211,5.594584211
+"P128","Definite","Moraxella catarrhalis",TRUE,480,475,18677,124.5133333,124.5133333
+"P129","Definite","Moraxella catarrhalis",TRUE,480,475,48387,462.4022982,462.4022982
+"P130","Definite","Neisseria subflava",FALSE,28449,482,1731,17.46127083,19.166039617
+"P131","Suspected","Salmonella enterica",FALSE,28901,590,619,10.47917101,10.47917101
+"P132","Definite","Moraxella catarrhalis",TRUE,480,475,234888,1566.040314,1566.040314
+"P133","Suspected","Haemophilus influenzae",TRUE,727,724,23665,254.1073967,254.225511273
+"P134","Suspected","Prevotella melaninogenica",FALSE,28132,838,266,5.231288027,11.426234374
+"P135","Definite","Haemophilus influenzae",TRUE,727,724,666896,4445.973393,4600.046728382
+"P136","Definite","Ureaplasma parvum",FALSE,134821,2129,729,15.71148252,15.71148252
+"P137","Definite","Moraxella catarrhalis",TRUE,480,475,1023,15.45625085,15.45625085
+"P138","Indeterminate","Neisseria mucosa",FALSE,488,482,103024,742.1144184,1652.721599326
+"P139","Definite","Pantoea agglomerans",FALSE,549,53335,246,5.009432395,5.111250127
+"P140","Definite","Streptococcus pneumoniae",TRUE,1313,1301,6674,79.56765364,79.56765364
+"P141","No Evidence","Moraxella catarrhalis",TRUE,480,475,444013,5153.894379,5159.779396893
+"P142","Suspected","Moraxella catarrhalis",TRUE,480,475,3714,86.85917504,86.85917504
+"P143","Definite","Haemophilus influenzae",TRUE,727,724,7394,74.28076599,74.28076599
+"P144","Indeterminate","Staphylococcus aureus",TRUE,1280,1279,392058,11704.28312,11735.688947308
+"P145","Suspected","Haemophilus influenzae",TRUE,727,724,1308,30.21068209,30.21068209
+"P146","Suspected","Haemophilus influenzae",TRUE,727,724,12418,82.91847166,82.91847166
+"P147","Suspected","Moraxella catarrhalis",TRUE,480,475,81630,1601.914432,1601.914432
+"P148","Definite","Haemophilus influenzae",TRUE,727,724,6695,102.8592759,102.8592759
+"P149","Suspected","Diaphorina citri",FALSE,121845,121844,20,0.408763798,0.408763798
+"P149","Suspected","Marchantia polymorpha",FALSE,3197,3196,16,0.327011038,0.327011038
+"P150","Suspected","Cutibacterium acnes",FALSE,1747,1912216,26786,258.5873673,264.022471004
+"P151","Definite","Streptococcus pyogenes",TRUE,1314,1301,510,10.06084404,10.06084404
+"P152","No Evidence","Actinobacillus pleuropneumoniae",FALSE,715,713,20024,148.0848175,148.676446815
+"P153","Suspected","Bacteroides ovatus",FALSE,28116,816,2825,18.83452342,19.281218312
+"P154","Indeterminate","Capnocytophaga leadbetteri",FALSE,327575,1016,297,3.392888232,3.57567009
+"P154","Indeterminate","Catenulispora acidiphila",FALSE,304895,414878,291,3.324345035,3.324345035
+"P154","Indeterminate","Bacteroides fragilis",TRUE,817,816,236,2.6960324,4.969381754
+"P155","Indeterminate","Moraxella catarrhalis",TRUE,480,475,692819,15192.11779,15425.014813594
+"P156","Definite","Bacteroides dorei",FALSE,357276,816,26184,223.6501071,231.653473672
+"P157","Definite","Moraxella catarrhalis",TRUE,480,475,11886,192.5180608,192.5180608
+"P158","Definite","Haemophilus influenzae",TRUE,727,724,7456,130.2715239,130.2715239
+"P159","Indeterminate","Ralstonia solanacearum",FALSE,305,48736,530,5.372969329,5.372969329
+"P159","Indeterminate","Clostridium beijerinckii",FALSE,1520,1485,426,4.318650819,4.318650819
+"P159","Indeterminate","Mitsuaria sp. 7",FALSE,1658665,65047,322,3.26433231,3.26433231
+"P160","Suspected","Streptococcus parasanguinis",FALSE,1318,1301,5252,41.64039366,50.615436618
+"P161","Indeterminate","Saccharomyces cerevisiae",FALSE,4932,4930,337,8.487438264,8.487438264
+"P161","Indeterminate","Salmonella enterica",FALSE,28901,590,268,6.749654168,6.749654168
+"P162","Suspected","Lactobacillus crispatus",FALSE,47770,1578,970,14.99600596,41.756919689
+"P163","No Evidence","Veillonella parvula",FALSE,29466,29465,3472,28.99125738,29.133207661
+"P163","No Evidence","Streptococcus pneumoniae",TRUE,1313,1301,2665,22.25279404,25.601150667
+"P163","No Evidence","Haemophilus haemolyticus",FALSE,726,724,2433,20.31559021,20.31559021
+"P164","Definite","Moraxella catarrhalis",TRUE,480,475,1236,27.37621201,27.37621201
+"P165","Suspected","Bradyrhizobium elkanii",FALSE,29448,374,666,4.442997068,4.442997068
+"P165","Suspected","Moraxella catarrhalis",TRUE,480,475,565,3.769209224,3.769209224
+"P165","Suspected","Streptococcus pneumoniae",TRUE,1313,1301,507,3.382281552,3.422308553
+"P166","No Evidence","Staphylococcus aureus",TRUE,1280,1279,13439,89.59694827,89.59694827
+"P167","Indeterminate","Streptococcus agalactiae",FALSE,1311,1301,6135,72.39941308,77.084428076
+"P167","Indeterminate","Neisseria lactamica",FALSE,486,482,5188,61.22382316,62.262315149
+"P168","Suspected","Haemophilus influenzae",TRUE,727,724,958,18.05688877,18.05688877
+"P169","Indeterminate","Bordetella pertussis",TRUE,520,517,970266,6470.829807,8479.571675783
+"P170","Indeterminate","Quercus suber",FALSE,58331,3511,14224,94.82666793,94.82666793
+"P171","No Evidence","Haemophilus haemolyticus",FALSE,726,724,143,1.164079685,1.628083476
+"P172","No Evidence","Alloprevotella sp. E39",FALSE,2133944,1283313,366610,2444.230235,2444.636928882
+"P173","No Evidence","Mitsuaria sp. 7",FALSE,1658665,65047,243,1.845455931,1.845455931
+"P174","Suspected","Prevotella melaninogenica",FALSE,28132,838,4723,31.48666709,32.593333772
+"P174","Suspected","Neisseria subflava",FALSE,28449,482,3803,25.35333367,28.253333708
+"P175","No Evidence","Neisseria subflava",FALSE,28449,482,16780,146.0366616,146.55884275
+"P175","No Evidence","Streptococcus mitis",FALSE,28037,1301,16140,140.4667293,143.617222239
+"P175","No Evidence","Haemophilus parainfluenzae",FALSE,729,724,10283,89.49314609,90.511399332
+"P176","Indeterminate","Pseudomonas aeruginosa",TRUE,287,286,373158,6722.79596,8963.133419945
+"P177","No Evidence","Streptococcus mitis",FALSE,28037,1301,366,5.436175718,9.208822254
+"P177","No Evidence","Neisseria meningitidis",FALSE,487,482,347,5.153969874,10.367351504
+"P178","No Evidence","Neisseria sicca",FALSE,490,482,44132,410.112894,514.016462123
+"P178","No Evidence","Aggregatibacter segnis",FALSE,739,416916,41242,383.2565027,384.854876165
+"P179","Indeterminate","Streptococcus pseudopneumoniae",FALSE,257758,1301,4169,41.49051609,42.107549431
+"P180","Definite","Moraxella catarrhalis",TRUE,480,475,593,13.84901556,13.84901556
+"P181","Suspected","Moraxella catarrhalis",TRUE,480,475,573,14.10965353,14.10965353
+"P182","No Evidence","Haemophilus influenzae",TRUE,727,724,500,3.335525619,3.335525619
+"P182","No Evidence","Porphyromonas gingivalis",FALSE,837,836,412,2.74847311,3.28882826
+"P184","Indeterminate","Prevotella jejuni",FALSE,1177574,838,303462,2211.025706,5152.560863692
+"P185","Definite","Stenotrophomonas maltophilia",TRUE,40324,40323,34572,459.8819509,460.028274557
+"P185","Definite","Streptococcus pneumoniae",TRUE,1313,1301,19952,265.404509,265.537530506
+"P186","No Evidence","Mitsuaria sp. 7",FALSE,1658665,65047,63,0.64748248,0.64748248
+"P187","Indeterminate","Capnocytophaga gingivalis",FALSE,1017,1016,13007,129.5051271,236.319227497
+"P188","No Evidence","Providencia rettgeri",FALSE,587,586,8228,67.65315402,67.65315402
+"P189","Definite","Staphylococcus aureus",TRUE,1280,1279,53316,1111.950397,1112.284090569
+"P190","Suspected","Cutibacterium acnes",FALSE,1747,1912216,417,5.709471998,5.709471998
+"P191","Suspected","Veillonella atypica",FALSE,39777,29465,1293,16.42756784,16.503797853
+"P192","No Evidence","Prevotella intermedia",FALSE,28131,838,9788,65.25994982,167.963695956
+"P192","No Evidence","Porphyromonas asaccharolytica",FALSE,28123,836,9415,62.77303102,107.604242975
+"P192","No Evidence","Proteus mirabilis",TRUE,584,583,8317,55.45228879,55.45228879
+"P192","No Evidence","Fusobacterium nucleatum",TRUE,851,848,7489,49.93172908,50.271763555
+"P193","Suspected","Cutibacterium acnes",FALSE,1747,1912216,74,1.369179742,1.369179742
+"P193","Suspected","Ralstonia solanacearum",FALSE,305,48736,67,1.239662739,1.239662739
+"P193","Suspected","Lysinibacillus sphaericus",FALSE,1421,400634,52,0.962126305,0.962126305
+"P194","Suspected","Pseudomonas putida",FALSE,303,286,32577,746.0322339,747.566572841
+"P194","Suspected","Enterobacter hormaechei",FALSE,158836,547,26928,616.6668506,715.82636721
+"P195","Definite","Streptococcus mitis",FALSE,28037,1301,2786,43.9063488,44.284580089
+"P196","No Evidence","Neisseria mucosa",FALSE,488,482,18541,357.1504934,865.263093372
+"P197","Indeterminate","Prevotella melaninogenica",FALSE,28132,838,38653,893.8849234,1578.110552177
+"P197","Indeterminate","Corynebacterium striatum",FALSE,43770,1716,30645,708.6928175,708.6928175
+"P198","Suspected","Neisseria elongata",FALSE,495,482,535,7.423482832,8.200520287
+"P199","Definite","Bordetella pseudohinzii",FALSE,1331258,517,909,14.9888133,14.9888133
+"P200","Suspected","Cladosporium herbarum",FALSE,29918,5498,16,0.189605194,0.189605194
+"P201","Definite","Streptococcus mitis",FALSE,28037,1301,15,0.241913665,0.48382733
+"P202","No Evidence","Bacteroides ovatus",FALSE,28116,816,31320,686.8679231,687.503911918
+"P202","No Evidence","Neisseria mucosa",FALSE,488,482,28963,635.1773836,931.526242024
+"P203","Suspected","Moraxella catarrhalis",TRUE,480,475,340495,13347.28019,13352.101745274
+"P204","Definite","Porphyromonas gingivalis",FALSE,837,836,126,1.978035206,2.935655425
+"P205","Definite","Arabidopsis thaliana",FALSE,3702,3701,120,1.814498112,1.814498112
+"P205","Definite","Neisseria subflava",FALSE,28449,482,95,1.436477672,3.870929306
+"P206","Definite","Rothia mucilaginosa",FALSE,43675,32207,1187,26.62947962,26.62947962
+"P207","Suspected","Pseudomonas aeruginosa",TRUE,287,286,610,9.938113575,9.938113575
+"P208","No Evidence","Providencia rettgeri",FALSE,587,586,12303,119.6094659,119.6094659
+"P209","Definite","Haemophilus influenzae",TRUE,727,724,19110,394.1988777,394.508295971
+"P210","Definite","Prevotella melaninogenica",FALSE,28132,838,395,10.94516517,10.94516517
+"P211","Suspected","Mycolicibacterium goodii",FALSE,134601,1866885,1827,42.85054088,42.85054088
+"P212","Indeterminate","Haemophilus haemolyticus",FALSE,726,724,236647,3857.583105,5767.620355738
+"P213","Suspected","Moraxella catarrhalis",TRUE,480,475,178,3.573042319,3.573042319
+"P213","Suspected","Streptococcus salivarius",FALSE,1304,1301,115,2.308426217,2.810258003
+"P214","Definite","Escherichia coli",TRUE,562,561,1668,40.69167058,40.69167058
+"P215","Suspected","Pneumocystis jirovecii",TRUE,42068,4753,1717,22.23987135,22.23987135
+"P216","Definite","Haemophilus influenzae",TRUE,727,724,7352,117.0242528,117.0242528
+"P217","Indeterminate","Aspergillus oryzae",FALSE,5062,5052,48,1.186778985,1.186778985
+"P218","Definite","Streptococcus oralis",FALSE,1303,1301,2970,54.1853118,56.630036307
+"P219","Suspected","Pseudomonas aeruginosa",TRUE,287,286,18264,719.3335058,719.3335058
+"P220","Definite","Haemophilus influenzae",TRUE,727,724,424175,10337.28388,10337.28388
+"P221","Suspected","Moraxella catarrhalis",TRUE,480,475,17781,302.3938244,302.3938244
+"P222","No Evidence","Pseudomonas aeruginosa",TRUE,287,286,44559,1357.947683,1357.947683
+"P222","No Evidence","Neisseria sicca",FALSE,490,482,44370,1352.187856,1796.06020509
+"P223","Definite","Acinetobacter pittii",FALSE,48296,469,22,0.383773592,0.383773592
+"P224","Suspected","Neisseria lactamica",FALSE,486,482,79,1.906341951,4.826182155
+"P224","Suspected","Streptococcus oralis",FALSE,1303,1301,78,1.88221104,3.257672954
+"P224","Suspected","Porphyromonas gingivalis",FALSE,837,836,73,1.761556486,1.761556486
+"P224","Suspected","Streptococcus pneumoniae",TRUE,1313,1301,51,1.230676449,3.257672954
+"P225","Definite","Haemophilus influenzae",TRUE,727,724,479505,10559.64337,10607.695302378
+"P226","No Evidence","Moraxella catarrhalis",TRUE,480,475,2269,41.58805443,41.58805443
+"P226","No Evidence","Fusobacterium periodonticum",FALSE,860,848,1637,30.00425082,30.150881245
+"P226","No Evidence","Haemophilus influenzae",TRUE,727,724,1323,24.24900662,31.452226272
+"P227","Definite","Haemophilus influenzae",TRUE,727,724,1986,46.15665653,46.15665653
+"P228","Suspected","Ottowia sp. oral taxon 894",FALSE,1658672,219181,4197,72.06832592,72.06832592
+"P229","Suspected","Leptotrichia sp. oral taxon 212",FALSE,712357,32067,377759,8069.283751,9803.940835235
+"P230","Definite","Chlorotetraedron incus",FALSE,162317,162316,48,0.794881361,0.794881361
+"P231","Definite","Moraxella catarrhalis",TRUE,480,475,455790,12148.64381,12296.706989
+"P232","Indeterminate","Neisseria cinerea",FALSE,483,482,2447,52.47877837,53.400963687
+"P233","Definite","Haemophilus influenzae",TRUE,727,724,31387,582.8954081,582.8954081
+"P234","No Evidence","Neisseria sicca",FALSE,490,482,2326,43.11811044,59.041780631
+"P235","Definite","Moraxella catarrhalis",TRUE,480,475,5119,77.26598851,77.26598851
+"P236","No Evidence","Neisseria subflava",FALSE,28449,482,36994,751.9351751,1612.064947555
+"P237","No Evidence","Moraxella catarrhalis",TRUE,480,475,8058,155.5248975,155.5248975
+"P238","Indeterminate","Neisseria cinerea",FALSE,483,482,15585,364.1624859,369.863842752
+"P239","Suspected","Simonsiella muelleri",FALSE,72,71,5,0.070704887,0.070704887
+"P240","Definite","Prevotella melaninogenica",FALSE,28132,838,618,9.1565195,9.1565195
+"P241","Definite","Haemophilus influenzae",TRUE,727,724,181,4.859920446,4.859920446
+"P242","Definite","Staphylococcus capitis",FALSE,29388,1279,435,10.35099092,10.35099092
+"P242","Definite","Enterobacter cloacae",TRUE,550,547,414,9.851287908,9.851287908
+"P242","Definite","Streptococcus pneumoniae",TRUE,1313,1301,373,8.87567727,10.779307783
+"P243","No Evidence","Providencia rettgeri",FALSE,587,586,2765,53.40286328,53.40286328
+"P244","Definite","Moraxella catarrhalis",TRUE,480,475,63301,1393.888839,1393.888839
+"P245","Definite","Haemophilus influenzae",TRUE,727,724,327097,4403.198041,4403.440346997
+"P246","Definite","Haemophilus parainfluenzae",FALSE,729,724,26,0.884981717,1.157283784
+"P247","No Evidence","Enterobacter cloacae",TRUE,550,547,721,19.15373537,19.15373537
+"P248","Suspected","Candida albicans",FALSE,5476,1535326,266,10.60658163,11.0053253
+"P249","Definite","Salmonella enterica",FALSE,28901,590,2610,55.95442317,55.95442317
+"P250","No Evidence","Modestobacter marinus",FALSE,477641,88138,1606,36.57658638,36.57658638
+"P251","Definite","Haemophilus influenzae",TRUE,727,724,722,16.98659099,16.98659099
+"P251","Definite","Moraxella catarrhalis",TRUE,480,475,408,9.59907081,9.59907081
+"P252","Definite","Bacteroides ovatus",FALSE,28116,816,4305,126.5381216,126.773267935
+"P253","Definite","Haemophilus influenzae",TRUE,727,724,1554,26.26052106,26.26052106
+"P254","Indeterminate","Streptococcus mitis",FALSE,28037,1301,736,11.16829975,11.335217273
+"P255","Definite","Moraxella catarrhalis",TRUE,480,475,914,13.46210966,13.46210966
+"P256","Definite","Haemophilus influenzae",TRUE,727,724,11112,290.8012742,290.8012742
+"P257","Definite","Bacteroides dorei",FALSE,357276,816,1035,19.97086762,19.97086762
+"P258","Suspected","Moraxella catarrhalis",TRUE,480,475,14559,220.5013855,220.5013855
+"P259","Definite","Pneumocystis jirovecii",TRUE,42068,4753,18813,296.9527093,298.404877973
+"P260","Definite","Streptococcus mitis",FALSE,28037,1301,2819,48.12137498,57.305234412
+"P261","Definite","Haemophilus influenzae",TRUE,727,724,128,2.413312586,2.413312586
