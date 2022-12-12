@@ -4,7 +4,7 @@ This repo houses data and code for the analyses in the pre-print ["Leveraging th
 How to get started:
 1. Download the repo to your local system.
 2. Change the `project_root` variable in the script `constants.R` to the path of the main repo folder on your local system.
-3. Set the R working dir to the `code` folder in the repo.
+3. Set the R working directory to the `code` folder in the repo.
 4. Run the numbered scripts in the `code` folder in order.
 
 ## Sample metadata table
