@@ -1,10 +1,11 @@
 # pediatric-mNGS-LRTI-classifier
-This repo houses data and code for the analyses in the pre-print ["Leveraging the pulmonary immune response and microbiome for improved lower respiratory tract infection diagnosis in critically ill children"](https://doi.org/10.1101/2022.12.01.22282994), focused on development and validation of classifiers for lower respiratory tract infection (LRTI) in critically ill children using host and microbial features from metagenomic next generation sequencing (mNGS) of tracheal aspirate RNA.
+This repo houses data and code for the analyses in the pre-print ["Leveraging the pulmonary immune response and microbiome for improved lower respiratory tract infection diagnosis in critically ill children"](https://doi.org/10.1101/2022.12.01.22282994), focused on development and validation of a classifier for lower respiratory tract infection (LRTI) in critically ill children using host and microbial features from metagenomic next generation sequencing (mNGS) of tracheal aspirate RNA.
 
-The analyses include:
-1. Gene differential expression (DE) on metagenomic RNA-sequencing data from nasopharyngeal/oropharyngeal swabs of patients with COVID-19, other viral acute respiratory illnesses (ARIs) or non-viral ARIs.
-2. Cell type deconvolution of the bulk RNA-seq in the three patient groups.
-3. Diagnostic classifier based on patient gene expression to distinguish COVID-19 from other ARIs (viral or non-viral).
+How to get started:
+1. Download the repo to your local system.
+2. Change the `project_root` path in the script `constants.R` to point to the repo folder on your local system.
+3. Set the R working dir to the `code` folder in the repo.
+4. Run the numbered scripts in the `code` folder in order.
 
 ## Sample metadata table
 
