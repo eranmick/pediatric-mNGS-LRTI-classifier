@@ -16,7 +16,7 @@ This repo houses data and code for the analyses in the pre-print ["Leveraging th
 
 ## Scripts
 
-1. `01-generate_cv_folds.R` - Randomly splits the samples with "Definite" or "No Evidence" LRTI status into 5 folds for cross-validation.
+1. `01-generate_cv_folds.R` - Randomly splits the samples with "Definite" or "No Evidence" LRTI status, where we assume the ground-truth is known, into 5 folds for cross-validation.
 2. `02-filter_transform_host_counts_for_cv.R` - Filters the host counts for the cross-validation samples and applies the variance stablizing transformation, as implemented in DESeq2.
 3. `03-host_lasso_cv.R` - Selects features (genes) for use in a host-based LRTI classifier for each train/test split, as well as for the full Definite/No Evidence dataset, using lasso logistic regression.
 4. `04-host_lassoRF_cv.R` - Trains a random forest model for each train/test split using its respective training samples and selected genes, and then generates out-of-fold LRTI probabilities.
@@ -25,5 +25,5 @@ This repo houses data and code for the analyses in the pre-print ["Leveraging th
 7. `07-calc_bac_vir_scores.R` - Calculates summary viral and bacterial/fungal scores for all patient samples.
 8. `08-integrated_classifier_cv.R` - Trains a logistic regression model for each train/test split that integrates the i) host LRTI probability, ii) viral score, and iii) bacterial/fungal score, and then generates out-of-fold LRTI probabilities.
 9. `09-output_cv_auc_roc.R` - Generates per-fold AUC tables and ROC curves from the out-of-fold probabilities of the Definite/No Evidence samples based on i) the host random forest classifier and ii) the integrated host+microbial classifier.
-10. `10-host_predict_on_sus_ind.R` - Trains a host random forest model on all the Definite/No Evidence samples, using the genes selected from all those samples, and then classifies the "Suspected" and "Indeterminate" LRTI samples.
+10. `10-host_predict_on_sus_ind.R` - Trains a host random forest model on all the Definite/No Evidence samples, using the genes selected from all those samples, and then classifies the "Suspected" and "Indeterminate" LRTI samples, whose LRTI status is uncertain.
 11. `11-integrated_predict_on_sus_ind.R` - Trains a logistic regression model on all the Definite/No Evidence samples using their host probabilities and microbial scores, and then classifies the Suspected/Indeterminate samples.
