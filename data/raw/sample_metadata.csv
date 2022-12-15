@@ -1,294 +1,294 @@
-"sample_name","sex","age_in_years","LRTI_adjudication","is_water","batch","nonhost_reads"
-"P1","Female",3.01,"No Evidence",FALSE,"OPS016",171414
-"P2","Male",0.15,"Definite",FALSE,"VAP_3",154936
-"P3","Male",0.57,"Definite",FALSE,"OPS016",520156
-"P4","Female",0.52,"Definite",FALSE,"VAP_3",27268
-"P5","Male",2.19,"Definite",FALSE,"OPS016",113168
-"P6","Female",16.37,"Definite",FALSE,"VAP_3",682148
-"P7","Female",0.45,"Definite",FALSE,"VAP_3",454698
-"P8","Male",0.86,"Definite",FALSE,"VAP_3",1916364
-"P9","Female",1.06,"Definite",FALSE,"VAP_3",24570
-"P10","Male",1.43,"Definite",FALSE,"VAP_3",3042
-"P11","Female",0.2,"Definite",FALSE,"VAP_3",165220
-"P12","Female",0.44,"Definite",FALSE,"VAP_3",232664
-"P13","Male",2.56,"Definite",FALSE,"VAP_3",50680
-"P14","Female",9.55,"No Evidence",FALSE,"VAP_3",370444
-"P15","Male",10.75,"Indeterminate",FALSE,"VAP_3",505374
-"P16","Male",16.37,"Definite",FALSE,"VAP_3",429868
-"P17","Male",0.73,"Definite",FALSE,"VAP_3",159322
-"P18","Male",1.38,"Indeterminate",FALSE,"VAP_3",7182
-"P19","Male",11.34,"No Evidence",FALSE,"VAP_3",23460
-"P20","Male",0.57,"Definite",FALSE,"VAP_3",63350
-"P21","Male",9.94,"Suspected",FALSE,"VAP_3",7520
-"P22","Female",4.9,"Definite",FALSE,"VAP_9",1319382
-"P23","Female",17.07,"Indeterminate",FALSE,"VAP_9",895040
-"P24","Female",4.02,"Indeterminate",FALSE,"OPS016",62952
-"P25","Male",13.21,"No Evidence",FALSE,"VAP_9",195506
-"P26","Male",1.56,"Indeterminate",FALSE,"VAP_4",1139242
-"P27","Male",6.85,"No Evidence",FALSE,"OPS016",8218
-"P28","Male",1.59,"Indeterminate",FALSE,"OPS016",1181340
-"P29","Female",4.06,"Suspected",FALSE,"VAP_4",12282
-"P30","Male",7.05,"No Evidence",FALSE,"OPS_007",285594
-"P31","Female",10.78,"Definite",FALSE,"VAP_7",19708
-"P32","Male",6.56,"Indeterminate",FALSE,"OPS_003",370510
-"P33","Male",0.29,"Definite",FALSE,"VAP_4",193268
-"P34","Female",9.51,"No Evidence",FALSE,"OPS_007",2528
-"P35","Female",0.22,"Indeterminate",FALSE,"VAP_4",66744
-"P36","Male",0.65,"Suspected",FALSE,"VAP_4",1280296
-"P37","Female",1.41,"Definite",FALSE,"VAP_6",944964
-"P38","Male",1.77,"Definite",FALSE,"OPS_007",41472
-"P39","Male",16.62,"Suspected",FALSE,"VAP_4",282022
-"P40","Male",6.05,"No Evidence",FALSE,"VAP_4",293180
-"P41","Male",0.11,"Definite",FALSE,"OPS_003",10468
-"P42","Male",12.34,"No Evidence",FALSE,"VAP_4",69410
-"P43","Female",1.28,"No Evidence",FALSE,"VAP_4",8938738
-"P44","Male",1.46,"Indeterminate",FALSE,"VAP_4",406906
-"P45","Male",10.01,"Definite",FALSE,"OPS_003",123880
-"P46","Male",1.31,"Indeterminate",FALSE,"VAP_4",80170
-"P47","Male",0.1,"Definite",FALSE,"OPS_001",400232
-"P48","Female",0.11,"Definite",FALSE,"OPS_001",117860
-"P49","Male",0.18,"Definite",FALSE,"OPS_001",2456797
-"P50","Female",1.01,"Definite",FALSE,"OPS_003",4019947
-"P51","Male",1.34,"No Evidence",FALSE,"OPS_006",230450
-"P52","Female",3.27,"Definite",FALSE,"VAP_4",6258815
-"P53","Female",0.15,"Definite",FALSE,"OPS_001",228188
-"P54","Female",0.21,"Definite",FALSE,"OPS_001",32142
-"P55","Male",0.15,"Definite",FALSE,"OPS_001",158872
-"P56","Male",1.84,"Definite",FALSE,"OPS_001",657592
-"P57","Male",13.38,"Definite",FALSE,"OPS_003",5750
-"P58","Male",0.12,"Suspected",FALSE,"VAP_2019",86606
-"P59","Female",16.71,"No Evidence",FALSE,"VAP_5",275478
-"P60","Female",0.61,"Definite",FALSE,"OPS_001",89984
-"P61","Male",12.51,"Suspected",FALSE,"OPS_001",49948
-"P62","Female",0.5,"Indeterminate",FALSE,"VAP_9",20652
-"P63","Female",0.15,"Definite",FALSE,"OPS_003",1430918
-"P64","Male",1.14,"Definite",FALSE,"OPS_003",132480
-"P65","Female",0.2,"Definite",FALSE,"OPS_001",3890173
-"P66","Male",0.08,"Suspected",FALSE,"OPS_001",18934
-"P67","Female",0.51,"Indeterminate",FALSE,"VAP_6",211540
-"P68","Male",0.16,"Suspected",FALSE,"OPS_001",1394980
-"P69","Female",0.75,"Definite",FALSE,"OPS_003",5194
-"P70","Male",0.44,"Definite",FALSE,"OPS_001",189568
-"P71","Male",0.8,"Definite",FALSE,"VAP_2019",135392
-"P72","Male",0.09,"Definite",FALSE,"VAP_8",203698
-"P73","Male",0.31,"Suspected",FALSE,"OPS_001",518168
-"P74","Female",5.86,"Suspected",FALSE,"VAP_2019",33330
-"P75","Male",0.19,"No Evidence",FALSE,"VAP_8",67716
-"P76","Female",3.52,"No Evidence",FALSE,"OPS_054",103438
-"P77","Male",0.86,"Definite",FALSE,"OPS_003",62528
-"P78","Female",0.19,"Definite",FALSE,"OPS_001",334532
-"P79","Male",0.23,"Definite",FALSE,"VAP_8",60918
-"P80","Male",4.85,"Definite",FALSE,"OPS_001",28972
-"P81","Male",9.88,"Definite",FALSE,"OPS_001",135050
-"P82","Female",1.15,"Indeterminate",FALSE,"VAP_9",67338
-"P83","Female",1.5,"Suspected",FALSE,"VAP_6",52848
-"P84","Female",11.18,"No Evidence",FALSE,"OPS_001",24960
-"P85","Female",10.26,"No Evidence",FALSE,"VAP_9",4910
-"P86","Female",0.13,"Definite",FALSE,"OPS_003",32036
-"P87","Male",0.18,"Definite",FALSE,"OPS_003",191930
-"P88","Female",1.27,"No Evidence",FALSE,"VAP_7",3480
-"P89","Male",0.21,"Indeterminate",FALSE,"OPS_003",95668
-"P90","Male",2.07,"Suspected",FALSE,"VAP_9",114760
-"P91","Male",0.15,"Definite",FALSE,"OPS_003",94988
-"P92","Female",15.59,"No Evidence",FALSE,"OPS_001",102998
-"P93","Male",0.17,"Definite",FALSE,"OPS_003",111064
-"P94","Female",0.09,"Definite",FALSE,"OPS_003",66468
-"P95","Female",1.46,"Suspected",FALSE,"VAP_9",219126
-"P96","Female",0.12,"Suspected",FALSE,"VAP_2019",66890
-"P97","Female",0.15,"Definite",FALSE,"OPS_003",179900
-"P98","Male",12.96,"No Evidence",FALSE,"VAP_8",1095186
-"P99","Male",3.36,"Definite",FALSE,"VAP_8",110780
-"P100","Male",7.66,"Definite",FALSE,"OPS_003",106778
-"P101","Male",16.68,"Suspected",FALSE,"VAP_8",1708046
-"P102","Male",0.95,"Suspected",FALSE,"VAP_9",81358
-"P103","Female",14.8,"Definite",FALSE,"VAP_2019",1545612
-"P104","Male",3.18,"No Evidence",FALSE,"VAP_6",6428
-"P105","Male",0.27,"Definite",FALSE,"OPS_003",338976
-"P106","Male",0.29,"Definite",FALSE,"OPS_003",322316
-"P107","Male",0.12,"Definite",FALSE,"OPS_003",344872
-"P108","Female",0.82,"No Evidence",FALSE,"VAP_9",8802
-"P109","Female",0.14,"Definite",FALSE,"VAP_5",1186256
-"P110","Male",0.33,"Indeterminate",FALSE,"OPS_003",437844
-"P111","Male",0.23,"Definite",FALSE,"OPS_003",7740
-"P112","Male",1.28,"Indeterminate",FALSE,"OPS_001",214966
-"P113","Male",15.81,"Indeterminate",FALSE,"VAP_9",45442
-"P114","Female",0.34,"Suspected",FALSE,"VAP_2019",10704
-"P115","Male",0.1,"Definite",FALSE,"OPS_003",323354
-"P116","Female",10.64,"No Evidence",FALSE,"VAP_6",17022
-"P117","Female",5.93,"Definite",FALSE,"OPS_001",123192
-"P118","Male",14.2,"Indeterminate",FALSE,"OPS_001",1128866
-"P119","Male",2.47,"No Evidence",FALSE,"OPS_003",347188
-"P120","Female",0.53,"Suspected",FALSE,"OPS_003",4316
-"P121","Male",0.26,"Definite",FALSE,"VAP_9",129074
-"P122","Male",0.88,"No Evidence",FALSE,"VAP_8",624108
-"P123","Female",0.26,"Suspected",FALSE,"VAP_6",117526
-"P124","Male",0.24,"Definite",FALSE,"VAP_9",35106
-"P125","Female",2.03,"No Evidence",FALSE,"OPS_007",81954
-"P126","Male",1.04,"Suspected",FALSE,"OPS_003",5416
-"P127","Male",5.98,"Suspected",FALSE,"VAP_2019",977038
-"P128","Female",0.35,"Definite",FALSE,"VAP_5",62202
-"P129","Male",0.14,"Definite",FALSE,"OPS_003",63860
-"P130","Male",16.24,"Definite",FALSE,"OPS_003",8314
-"P131","Female",8.65,"Suspected",FALSE,"VAP_2019",7404
-"P132","Male",0.43,"Definite",FALSE,"OPS_001",634672
-"P133","Male",3.71,"Suspected",FALSE,"VAP_2019",543866
-"P134","Female",5.64,"Suspected",FALSE,"VAP_2019",4060
-"P135","Male",0.26,"Definite",FALSE,"VAP_8",1042410
-"P136","Male",0.09,"Definite",FALSE,"VAP_2019",122994
-"P137","Female",0.13,"Definite",FALSE,"VAP_2019",87866
-"P138","Male",5.45,"Indeterminate",FALSE,"OPS_001",636426
-"P139","Female",1.72,"Definite",FALSE,"VAP_2019",22318
-"P140","Male",0.22,"Definite",FALSE,"OPS_003",65320
-"P141","Male",0.24,"No Evidence",FALSE,"VAP_6",535270
-"P142","Male",0.41,"Suspected",FALSE,"VAP_6",30422
-"P143","Male",0.24,"Definite",FALSE,"OPS_003",17288
-"P144","Female",12.63,"Indeterminate",FALSE,"VAP_5",7774367
-"P145","Female",0.51,"Suspected",FALSE,"OPS_007",39150
-"P146","Male",1.69,"Suspected",FALSE,"VAP_9",40990
-"P147","Male",0.72,"Suspected",FALSE,"VAP_2019",90740
-"P148","Female",0.09,"Definite",FALSE,"VAP_2019",8502
-"P149","Male",0.24,"Suspected",FALSE,"OPS_007",547458
-"P150","Female",11.34,"Suspected",FALSE,"VAP_2019",82596
-"P151","Female",1.97,"Definite",FALSE,"OPS_007",1144
-"P152","Female",15.11,"No Evidence",FALSE,"VAP_9",47090
-"P153","Male",12.93,"Suspected",FALSE,"OPS_001",37734
-"P154","Female",14.7,"Indeterminate",FALSE,"VAP_8",21888
-"P155","Female",12.86,"Indeterminate",FALSE,"OPS_007",1548346
-"P156","Male",3.17,"Definite",FALSE,"VAP_9",202304
-"P157","Male",0.47,"Definite",FALSE,"VAP_2019",12588
-"P158","Male",15.7,"Definite",FALSE,"VAP_2019",223910
-"P159","Male",0.68,"Indeterminate",FALSE,"VAP_9",31926
-"P160","Female",4.28,"Suspected",FALSE,"VAP_9",25894
-"P161","Female",4.04,"Indeterminate",FALSE,"OPS_007",8826
-"P162","Male",1.51,"Suspected",FALSE,"VAP_2019",188718
-"P163","Female",11.23,"No Evidence",FALSE,"VAP_5",40272
-"P164","Female",0.56,"Definite",FALSE,"OPS_007",6168
-"P165","Female",7.74,"Suspected",FALSE,"OPS_001",37202
-"P166","Male",0.53,"No Evidence",FALSE,"OPS_001",16484
-"P167","Male",0.35,"Indeterminate",FALSE,"VAP_6",33136
-"P168","Male",0.28,"Suspected",FALSE,"VAP_2019",110762
-"P169","Female",1.45,"Indeterminate",FALSE,"OPS_001",1785524
-"P170","Male",0.65,"Indeterminate",FALSE,"VAP_5",101870
-"P171","Male",1.49,"No Evidence",FALSE,"VAP_8",6152
-"P172","Female",14.02,"No Evidence",FALSE,"OPS_054",1483444
-"P173","Female",14.35,"No Evidence",FALSE,"VAP_9",23154
-"P174","Male",1.54,"Suspected",FALSE,"VAP_8",142444
-"P175","Female",1.46,"No Evidence",FALSE,"VAP_9",69974
-"P176","Male",16.54,"Indeterminate",FALSE,"OPS_006",560914
-"P177","Female",0.39,"No Evidence",FALSE,"OPS_006",27316
-"P178","Female",16.27,"No Evidence",FALSE,"OPS_054",220962
-"P179","Female",0.43,"Indeterminate",FALSE,"VAP_9",22920
-"P180","Female",1.02,"Definite",FALSE,"VAP_2019",43558
-"P181","Female",4.43,"Suspected",FALSE,"OPS_006",7074
-"P182","Female",2.74,"No Evidence",FALSE,"OPS_006",23462
-"P183","Male",0.58,"Suspected",FALSE,"OPS_007",88484
-"P184",".",15,"Indeterminate",FALSE,"OPS016",2181552
-"P185","Male",4.45,"Definite",FALSE,"VAP_9",73148
-"P186","Male",0.64,"No Evidence",FALSE,"VAP_9",8684
-"P187","Female",2.36,"Indeterminate",FALSE,"OPS_006",175878
-"P188","Male",17.78,"No Evidence",FALSE,"OPS_007",83124
-"P189","Male",0.54,"Definite",FALSE,"OPS_007",70950
-"P190","Male",10.88,"Suspected",FALSE,"VAP_2019",2898
-"P191","Male",5.32,"Suspected",FALSE,"OPS_006",13342
-"P192","Male",15.24,"No Evidence",FALSE,"OPS_054",176224
-"P193","Male",2.44,"Suspected",FALSE,"VAP_2019",1340
-"P194","Female",12.55,"Suspected",FALSE,"OPS_006",93120
-"P195","Female",0.71,"Definite",FALSE,"OPS_006",17824
-"P196","Male",2.39,"No Evidence",FALSE,"OPS_006",75280
-"P197","Male",11.3,"Indeterminate",FALSE,"OPS_006",193010
-"P198","Female",3.92,"Suspected",FALSE,"OPS_007",123886
-"P199","Female",0.17,"Definite",FALSE,"OPS_006",146042
-"P200","Male",6.04,"Suspected",FALSE,"OPS_006",30106
-"P201","Male",1.87,"Definite",FALSE,"OPS_007",6832
-"P202","Male",5.32,"No Evidence",FALSE,"OPS_006",160158
-"P203","Male",0.86,"Suspected",FALSE,"OPS_007",4335366
-"P204","Female",1.76,"Definite",FALSE,"VAP_2019",57898
-"P205","Male",1.44,"Definite",FALSE,"OPS_007",4974
-"P206","Female",1.11,"Definite",FALSE,"OPS_006",22060
-"P207","Female",8.08,"Suspected",FALSE,"VAP_2019",10402
-"P208","Female",0.96,"No Evidence",FALSE,"OPS_007",159266
-"P209","Female",3.2,"Definite",FALSE,"OPS_006",38630
-"P210","Female",0.21,"Definite",FALSE,"OPS_007",55924
-"P211","Female",0.14,"Suspected",FALSE,"OPS_007",39938
-"P212","Female",0.24,"Indeterminate",FALSE,"OPS_007",1482486
-"P213","Female",0.54,"Suspected",FALSE,"OPS_006",175396
-"P214","Female",1.12,"Definite",FALSE,"OPS_007",8712
-"P215","Male",0.14,"Suspected",FALSE,"VAP_6",20636
-"P216","Female",0.27,"Definite",FALSE,"OPS_006",11402
-"P217","Female",0.08,"Indeterminate",FALSE,"OPS_006",3400
-"P218","Male",0.49,"Definite",FALSE,"OPS_006",15986
-"P219","Female",4.94,"Suspected",FALSE,"OPS_007",29078
-"P220","Male",2.9,"Definite",FALSE,"OPS_006",451702
-"P221","Male",5,"Suspected",FALSE,"OPS_006",20050
-"P222","Male",8.81,"No Evidence",FALSE,"OPS_007",208816
-"P223","Male",7.63,"Definite",FALSE,"OPS_006",13554
-"P224","Female",1.49,"Suspected",FALSE,"VAP_7",13682
-"P225","Male",0.42,"Definite",FALSE,"OPS_006",491800
-"P226","Male",1.68,"No Evidence",FALSE,"OPS_006",26578
-"P227","Male",0.19,"Definite",FALSE,"OPS_007",21784
-"P228","Female",1.32,"Suspected",FALSE,"OPS_006",25766
-"P229","Female",12.95,"Suspected",FALSE,"OPS_007",1217814
-"P230","Male",0.79,"Definite",FALSE,"OPS_007",161330
-"P231","Male",2.39,"Definite",FALSE,"OPS_007",538386
-"P232","Male",0.59,"Indeterminate",FALSE,"OPS_007",12092
-"P233","Male",0.34,"Definite",FALSE,"OPS_007",35912
-"P234","Female",16.76,"No Evidence",FALSE,"OPS_007",9866
-"P235","Male",0.54,"Definite",FALSE,"OPS_007",24662
-"P236","Female",17.22,"No Evidence",FALSE,"OPS_007",91682
-"P237","Male",12.52,"No Evidence",FALSE,"OPS_007",31350
-"P238","Female",1.31,"Indeterminate",FALSE,"OPS_007",112506
-"P239","Male",1.2,"Suspected",FALSE,"OPS_007",658888
-"P240","Male",1.14,"Definite",FALSE,"OPS_007",7432
-"P241","Female",0.91,"Definite",FALSE,"OPS_007",4408
-"P242","Male",0.64,"Definite",FALSE,"OPS_007",16790
-"P243","Male",16.27,"No Evidence",FALSE,"OPS_007",26904
-"P244","Male",0.59,"Definite",FALSE,"OPS_007",87266
-"P245","Male",0.3,"Definite",FALSE,"OPS_007",389980
-"P246","Male",0.14,"Definite",FALSE,"OPS_007",20986
-"P247","Female",0.56,"No Evidence",FALSE,"OPS_007",12028
-"P248","Female",3.38,"Suspected",FALSE,"OPS_007",1176
-"P249","Male",4.08,"Definite",FALSE,"OPS_007",163968
-"P250","Male",1.96,"No Evidence",FALSE,"OPS_007",18542
-"P251","Male",0.52,"Definite",FALSE,"OPS_007",95886
-"P252","Female",0.54,"Definite",FALSE,"OPS_007",19376
-"P253","Male",1.88,"Definite",FALSE,"OPS_007",40370
-"P254","Male",1.66,"Indeterminate",FALSE,"OPS_007",4318
-"P255","Female",0.1,"Definite",FALSE,"OPS_007",11398
-"P256","Male",2.18,"Definite",FALSE,"OPS_007",15122
-"P257","Female",0.53,"Definite",FALSE,"OPS_007",20150
-"P258","Female",8.46,"Suspected",FALSE,"OPS_007",21444
-"P259","Female",4.24,"Definite",FALSE,"OPS_007",26080
-"P260","Male",0.1,"Definite",FALSE,"OPS_007",68936
-"P261","Male",1.3,"Definite",FALSE,"OPS_007",21520
-"W1",NA,NA,NA,TRUE,"VAP_7",736256
-"W2",NA,NA,NA,TRUE,"VAP_7",690018
-"W3",NA,NA,NA,TRUE,"VAP_7",510714
-"W4",NA,NA,NA,TRUE,"VAP_4",238488
-"W5",NA,NA,NA,TRUE,"VAP_3",183010
-"W6",NA,NA,NA,TRUE,"VAP_5",1143514
-"W7",NA,NA,NA,TRUE,"VAP_5",805424
-"W8",NA,NA,NA,TRUE,"VAP_5",653564
-"W9",NA,NA,NA,TRUE,"VAP_5",420124
-"W10",NA,NA,NA,TRUE,"VAP_6",107600
-"W11",NA,NA,NA,TRUE,"VAP_6",172162
-"W12",NA,NA,NA,TRUE,"VAP_8",495696
-"W13",NA,NA,NA,TRUE,"VAP_8",49348
-"W14",NA,NA,NA,TRUE,"VAP_8",119560
-"W15",NA,NA,NA,TRUE,"VAP_8",111982
-"W16",NA,NA,NA,TRUE,"VAP_9",197648
-"W17",NA,NA,NA,TRUE,"VAP_9",188864
-"W18",NA,NA,NA,TRUE,"OPS_006",73604
-"W19",NA,NA,NA,TRUE,"OPS_007",3277126
-"W20",NA,NA,NA,TRUE,"OPS_007",2763626
-"W21",NA,NA,NA,TRUE,"OPS_001",207622
-"W22",NA,NA,NA,TRUE,"VAP_2019",216114
-"W23",NA,NA,NA,TRUE,"VAP_2019",89382
-"W24",NA,NA,NA,TRUE,"VAP_2019",60982
-"W25",NA,NA,NA,TRUE,"VAP_2019",65684
-"W26",NA,NA,NA,TRUE,"VAP_2019",82122
-"W27",NA,NA,NA,TRUE,"VAP_2019",171992
-"W28",NA,NA,NA,TRUE,"OPS_054",1387288
-"W29",NA,NA,NA,TRUE,"OPS_054",118414
-"W30",NA,NA,NA,TRUE,"OPS016",503828
-"W31",NA,NA,NA,TRUE,"OPS016",5104
-"W32",NA,NA,NA,TRUE,"OPS016",11514
+sample_name,sex,age_in_years,LRTI_adjudication,is_water,batch,nonhost_reads
+P1,Female,3.01,No Evidence,FALSE,OPS016,171414
+P2,Male,0.15,Definite,FALSE,VAP_3,154936
+P3,Male,0.57,Definite,FALSE,OPS016,520156
+P4,Female,0.52,Definite,FALSE,VAP_3,27268
+P5,Male,2.19,Definite,FALSE,OPS016,113168
+P6,Female,16.37,Definite,FALSE,VAP_3,682148
+P7,Female,0.45,Definite,FALSE,VAP_3,454698
+P8,Male,0.86,Definite,FALSE,VAP_3,1916364
+P9,Female,1.06,Definite,FALSE,VAP_3,24570
+P10,Male,1.43,Definite,FALSE,VAP_3,3042
+P11,Female,0.2,Definite,FALSE,VAP_3,165220
+P12,Female,0.44,Definite,FALSE,VAP_3,232664
+P13,Male,2.56,Definite,FALSE,VAP_3,50680
+P14,Female,9.55,No Evidence,FALSE,VAP_3,370444
+P15,Male,10.75,Indeterminate,FALSE,VAP_3,505374
+P16,Male,16.37,Definite,FALSE,VAP_3,429868
+P17,Male,0.73,Definite,FALSE,VAP_3,159322
+P18,Male,1.38,Indeterminate,FALSE,VAP_3,7182
+P19,Male,11.34,No Evidence,FALSE,VAP_3,23460
+P20,Male,0.57,Definite,FALSE,VAP_3,63350
+P21,Male,9.94,Suspected,FALSE,VAP_3,7520
+P22,Female,4.9,Definite,FALSE,VAP_9,1319382
+P23,Female,17.07,Indeterminate,FALSE,VAP_9,895040
+P24,Female,4.02,Indeterminate,FALSE,OPS016,62952
+P25,Male,13.21,No Evidence,FALSE,VAP_9,195506
+P26,Male,1.56,Indeterminate,FALSE,VAP_4,1139242
+P27,Male,6.85,No Evidence,FALSE,OPS016,8218
+P28,Male,1.59,Indeterminate,FALSE,OPS016,1181340
+P29,Female,4.06,Suspected,FALSE,VAP_4,12282
+P30,Male,7.05,No Evidence,FALSE,OPS_007,285594
+P31,Female,10.78,Definite,FALSE,VAP_7,19708
+P32,Male,6.56,Indeterminate,FALSE,OPS_003,370510
+P33,Male,0.29,Definite,FALSE,VAP_4,193268
+P34,Female,9.51,No Evidence,FALSE,OPS_007,2528
+P35,Female,0.22,Indeterminate,FALSE,VAP_4,66744
+P36,Male,0.65,Suspected,FALSE,VAP_4,1280296
+P37,Female,1.41,Definite,FALSE,VAP_6,944964
+P38,Male,1.77,Definite,FALSE,OPS_007,41472
+P39,Male,16.62,Suspected,FALSE,VAP_4,282022
+P40,Male,6.05,No Evidence,FALSE,VAP_4,293180
+P41,Male,0.11,Definite,FALSE,OPS_003,10468
+P42,Male,12.34,No Evidence,FALSE,VAP_4,69410
+P43,Female,1.28,No Evidence,FALSE,VAP_4,8938738
+P44,Male,1.46,Indeterminate,FALSE,VAP_4,406906
+P45,Male,10.01,Definite,FALSE,OPS_003,123880
+P46,Male,1.31,Indeterminate,FALSE,VAP_4,80170
+P47,Male,0.1,Definite,FALSE,OPS_001,400232
+P48,Female,0.11,Definite,FALSE,OPS_001,117860
+P49,Male,0.18,Definite,FALSE,OPS_001,2456797
+P50,Female,1.01,Definite,FALSE,OPS_003,4019947
+P51,Male,1.34,No Evidence,FALSE,OPS_006,230450
+P52,Female,3.27,Definite,FALSE,VAP_4,6258815
+P53,Female,0.15,Definite,FALSE,OPS_001,228188
+P54,Female,0.21,Definite,FALSE,OPS_001,32142
+P55,Male,0.15,Definite,FALSE,OPS_001,158872
+P56,Male,1.84,Definite,FALSE,OPS_001,657592
+P57,Male,13.38,Definite,FALSE,OPS_003,5750
+P58,Male,0.12,Suspected,FALSE,VAP_2019,86606
+P59,Female,16.71,No Evidence,FALSE,VAP_5,275478
+P60,Female,0.61,Definite,FALSE,OPS_001,89984
+P61,Male,12.51,Suspected,FALSE,OPS_001,49948
+P62,Female,0.5,Indeterminate,FALSE,VAP_9,20652
+P63,Female,0.15,Definite,FALSE,OPS_003,1430918
+P64,Male,1.14,Definite,FALSE,OPS_003,132480
+P65,Female,0.2,Definite,FALSE,OPS_001,3890173
+P66,Male,0.08,Suspected,FALSE,OPS_001,18934
+P67,Female,0.51,Indeterminate,FALSE,VAP_6,211540
+P68,Male,0.16,Suspected,FALSE,OPS_001,1394980
+P69,Female,0.75,Definite,FALSE,OPS_003,5194
+P70,Male,0.44,Definite,FALSE,OPS_001,189568
+P71,Male,0.8,Definite,FALSE,VAP_2019,135392
+P72,Male,0.09,Definite,FALSE,VAP_8,203698
+P73,Male,0.31,Suspected,FALSE,OPS_001,518168
+P74,Female,5.86,Suspected,FALSE,VAP_2019,33330
+P75,Male,0.19,No Evidence,FALSE,VAP_8,67716
+P76,Female,3.52,No Evidence,FALSE,OPS_054,103438
+P77,Male,0.86,Definite,FALSE,OPS_003,62528
+P78,Female,0.19,Definite,FALSE,OPS_001,334532
+P79,Male,0.23,Definite,FALSE,VAP_8,60918
+P80,Male,4.85,Definite,FALSE,OPS_001,28972
+P81,Male,9.88,Definite,FALSE,OPS_001,135050
+P82,Female,1.15,Indeterminate,FALSE,VAP_9,67338
+P83,Female,1.5,Suspected,FALSE,VAP_6,52848
+P84,Female,11.18,No Evidence,FALSE,OPS_001,24960
+P85,Female,10.26,No Evidence,FALSE,VAP_9,4910
+P86,Female,0.13,Definite,FALSE,OPS_003,32036
+P87,Male,0.18,Definite,FALSE,OPS_003,191930
+P88,Female,1.27,No Evidence,FALSE,VAP_7,3480
+P89,Male,0.21,Indeterminate,FALSE,OPS_003,95668
+P90,Male,2.07,Suspected,FALSE,VAP_9,114760
+P91,Male,0.15,Definite,FALSE,OPS_003,94988
+P92,Female,15.59,No Evidence,FALSE,OPS_001,102998
+P93,Male,0.17,Definite,FALSE,OPS_003,111064
+P94,Female,0.09,Definite,FALSE,OPS_003,66468
+P95,Female,1.46,Suspected,FALSE,VAP_9,219126
+P96,Female,0.12,Suspected,FALSE,VAP_2019,66890
+P97,Female,0.15,Definite,FALSE,OPS_003,179900
+P98,Male,12.96,No Evidence,FALSE,VAP_8,1095186
+P99,Male,3.36,Definite,FALSE,VAP_8,110780
+P100,Male,7.66,Definite,FALSE,OPS_003,106778
+P101,Male,16.68,Suspected,FALSE,VAP_8,1708046
+P102,Male,0.95,Suspected,FALSE,VAP_9,81358
+P103,Female,14.8,Definite,FALSE,VAP_2019,1545612
+P104,Male,3.18,No Evidence,FALSE,VAP_6,6428
+P105,Male,0.27,Definite,FALSE,OPS_003,338976
+P106,Male,0.29,Definite,FALSE,OPS_003,322316
+P107,Male,0.12,Definite,FALSE,OPS_003,344872
+P108,Female,0.82,No Evidence,FALSE,VAP_9,8802
+P109,Female,0.14,Definite,FALSE,VAP_5,1186256
+P110,Male,0.33,Indeterminate,FALSE,OPS_003,437844
+P111,Male,0.23,Definite,FALSE,OPS_003,7740
+P112,Male,1.28,Indeterminate,FALSE,OPS_001,214966
+P113,Male,15.81,Indeterminate,FALSE,VAP_9,45442
+P114,Female,0.34,Suspected,FALSE,VAP_2019,10704
+P115,Male,0.1,Definite,FALSE,OPS_003,323354
+P116,Female,10.64,No Evidence,FALSE,VAP_6,17022
+P117,Female,5.93,Definite,FALSE,OPS_001,123192
+P118,Male,14.2,Indeterminate,FALSE,OPS_001,1128866
+P119,Male,2.47,No Evidence,FALSE,OPS_003,347188
+P120,Female,0.53,Suspected,FALSE,OPS_003,4316
+P121,Male,0.26,Definite,FALSE,VAP_9,129074
+P122,Male,0.88,No Evidence,FALSE,VAP_8,624108
+P123,Female,0.26,Suspected,FALSE,VAP_6,117526
+P124,Male,0.24,Definite,FALSE,VAP_9,35106
+P125,Female,2.03,No Evidence,FALSE,OPS_007,81954
+P126,Male,1.04,Suspected,FALSE,OPS_003,5416
+P127,Male,5.98,Suspected,FALSE,VAP_2019,977038
+P128,Female,0.35,Definite,FALSE,VAP_5,62202
+P129,Male,0.14,Definite,FALSE,OPS_003,63860
+P130,Male,16.24,Definite,FALSE,OPS_003,8314
+P131,Female,8.65,Suspected,FALSE,VAP_2019,7404
+P132,Male,0.43,Definite,FALSE,OPS_001,634672
+P133,Male,3.71,Suspected,FALSE,VAP_2019,543866
+P134,Female,5.64,Suspected,FALSE,VAP_2019,4060
+P135,Male,0.26,Definite,FALSE,VAP_8,1042410
+P136,Male,0.09,Definite,FALSE,VAP_2019,122994
+P137,Female,0.13,Definite,FALSE,VAP_2019,87866
+P138,Male,5.45,Indeterminate,FALSE,OPS_001,636426
+P139,Female,1.72,Definite,FALSE,VAP_2019,22318
+P140,Male,0.22,Definite,FALSE,OPS_003,65320
+P141,Male,0.24,No Evidence,FALSE,VAP_6,535270
+P142,Male,0.41,Suspected,FALSE,VAP_6,30422
+P143,Male,0.24,Definite,FALSE,OPS_003,17288
+P144,Female,12.63,Indeterminate,FALSE,VAP_5,7774367
+P145,Female,0.51,Suspected,FALSE,OPS_007,39150
+P146,Male,1.69,Suspected,FALSE,VAP_9,40990
+P147,Male,0.72,Suspected,FALSE,VAP_2019,90740
+P148,Female,0.09,Definite,FALSE,VAP_2019,8502
+P149,Male,0.24,Suspected,FALSE,OPS_007,547458
+P150,Female,11.34,Suspected,FALSE,VAP_2019,82596
+P151,Female,1.97,Definite,FALSE,OPS_007,1144
+P152,Female,15.11,No Evidence,FALSE,VAP_9,47090
+P153,Male,12.93,Suspected,FALSE,OPS_001,37734
+P154,Female,14.7,Indeterminate,FALSE,VAP_8,21888
+P155,Female,12.86,Indeterminate,FALSE,OPS_007,1548346
+P156,Male,3.17,Definite,FALSE,VAP_9,202304
+P157,Male,0.47,Definite,FALSE,VAP_2019,12588
+P158,Male,15.7,Definite,FALSE,VAP_2019,223910
+P159,Male,0.68,Indeterminate,FALSE,VAP_9,31926
+P160,Female,4.28,Suspected,FALSE,VAP_9,25894
+P161,Female,4.04,Indeterminate,FALSE,OPS_007,8826
+P162,Male,1.51,Suspected,FALSE,VAP_2019,188718
+P163,Female,11.23,No Evidence,FALSE,VAP_5,40272
+P164,Female,0.56,Definite,FALSE,OPS_007,6168
+P165,Female,7.74,Suspected,FALSE,OPS_001,37202
+P166,Male,0.53,No Evidence,FALSE,OPS_001,16484
+P167,Male,0.35,Indeterminate,FALSE,VAP_6,33136
+P168,Male,0.28,Suspected,FALSE,VAP_2019,110762
+P169,Female,1.45,Indeterminate,FALSE,OPS_001,1785524
+P170,Male,0.65,Indeterminate,FALSE,VAP_5,101870
+P171,Male,1.49,No Evidence,FALSE,VAP_8,6152
+P172,Female,14.02,No Evidence,FALSE,OPS_054,1483444
+P173,Female,14.35,No Evidence,FALSE,VAP_9,23154
+P174,Male,1.54,Suspected,FALSE,VAP_8,142444
+P175,Female,1.46,No Evidence,FALSE,VAP_9,69974
+P176,Male,16.54,Indeterminate,FALSE,OPS_006,560914
+P177,Female,0.39,No Evidence,FALSE,OPS_006,27316
+P178,Female,16.27,No Evidence,FALSE,OPS_054,220962
+P179,Female,0.43,Indeterminate,FALSE,VAP_9,22920
+P180,Female,1.02,Definite,FALSE,VAP_2019,43558
+P181,Female,4.43,Suspected,FALSE,OPS_006,7074
+P182,Female,2.74,No Evidence,FALSE,OPS_006,23462
+P183,Male,0.58,Suspected,FALSE,OPS_007,88484
+P184,Male,15,Indeterminate,FALSE,OPS016,2181552
+P185,Male,4.45,Definite,FALSE,VAP_9,73148
+P186,Male,0.64,No Evidence,FALSE,VAP_9,8684
+P187,Female,2.36,Indeterminate,FALSE,OPS_006,175878
+P188,Male,17.78,No Evidence,FALSE,OPS_007,83124
+P189,Male,0.54,Definite,FALSE,OPS_007,70950
+P190,Male,10.88,Suspected,FALSE,VAP_2019,2898
+P191,Male,5.32,Suspected,FALSE,OPS_006,13342
+P192,Male,15.24,No Evidence,FALSE,OPS_054,176224
+P193,Male,2.44,Suspected,FALSE,VAP_2019,1340
+P194,Female,12.55,Suspected,FALSE,OPS_006,93120
+P195,Female,0.71,Definite,FALSE,OPS_006,17824
+P196,Male,2.39,No Evidence,FALSE,OPS_006,75280
+P197,Male,11.3,Indeterminate,FALSE,OPS_006,193010
+P198,Female,3.92,Suspected,FALSE,OPS_007,123886
+P199,Female,0.17,Definite,FALSE,OPS_006,146042
+P200,Male,6.04,Suspected,FALSE,OPS_006,30106
+P201,Male,1.87,Definite,FALSE,OPS_007,6832
+P202,Male,5.32,No Evidence,FALSE,OPS_006,160158
+P203,Male,0.86,Suspected,FALSE,OPS_007,4335366
+P204,Female,1.76,Definite,FALSE,VAP_2019,57898
+P205,Male,1.44,Definite,FALSE,OPS_007,4974
+P206,Female,1.11,Definite,FALSE,OPS_006,22060
+P207,Female,8.08,Suspected,FALSE,VAP_2019,10402
+P208,Female,0.96,No Evidence,FALSE,OPS_007,159266
+P209,Female,3.2,Definite,FALSE,OPS_006,38630
+P210,Female,0.21,Definite,FALSE,OPS_007,55924
+P211,Female,0.14,Suspected,FALSE,OPS_007,39938
+P212,Female,0.24,Indeterminate,FALSE,OPS_007,1482486
+P213,Female,0.54,Suspected,FALSE,OPS_006,175396
+P214,Female,1.12,Definite,FALSE,OPS_007,8712
+P215,Male,0.14,Suspected,FALSE,VAP_6,20636
+P216,Female,0.27,Definite,FALSE,OPS_006,11402
+P217,Female,0.08,Indeterminate,FALSE,OPS_006,3400
+P218,Male,0.49,Definite,FALSE,OPS_006,15986
+P219,Female,4.94,Suspected,FALSE,OPS_007,29078
+P220,Male,2.9,Definite,FALSE,OPS_006,451702
+P221,Male,5,Suspected,FALSE,OPS_006,20050
+P222,Male,8.81,No Evidence,FALSE,OPS_007,208816
+P223,Male,7.63,Definite,FALSE,OPS_006,13554
+P224,Female,1.49,Suspected,FALSE,VAP_7,13682
+P225,Male,0.42,Definite,FALSE,OPS_006,491800
+P226,Male,1.68,No Evidence,FALSE,OPS_006,26578
+P227,Male,0.19,Definite,FALSE,OPS_007,21784
+P228,Female,1.32,Suspected,FALSE,OPS_006,25766
+P229,Female,12.95,Suspected,FALSE,OPS_007,1217814
+P230,Male,0.79,Definite,FALSE,OPS_007,161330
+P231,Male,2.39,Definite,FALSE,OPS_007,538386
+P232,Male,0.59,Indeterminate,FALSE,OPS_007,12092
+P233,Male,0.34,Definite,FALSE,OPS_007,35912
+P234,Female,16.76,No Evidence,FALSE,OPS_007,9866
+P235,Male,0.54,Definite,FALSE,OPS_007,24662
+P236,Female,17.22,No Evidence,FALSE,OPS_007,91682
+P237,Male,12.52,No Evidence,FALSE,OPS_007,31350
+P238,Female,1.31,Indeterminate,FALSE,OPS_007,112506
+P239,Male,1.2,Suspected,FALSE,OPS_007,658888
+P240,Male,1.14,Definite,FALSE,OPS_007,7432
+P241,Female,0.91,Definite,FALSE,OPS_007,4408
+P242,Male,0.64,Definite,FALSE,OPS_007,16790
+P243,Male,16.27,No Evidence,FALSE,OPS_007,26904
+P244,Male,0.59,Definite,FALSE,OPS_007,87266
+P245,Male,0.3,Definite,FALSE,OPS_007,389980
+P246,Male,0.14,Definite,FALSE,OPS_007,20986
+P247,Female,0.56,No Evidence,FALSE,OPS_007,12028
+P248,Female,3.38,Suspected,FALSE,OPS_007,1176
+P249,Male,4.08,Definite,FALSE,OPS_007,163968
+P250,Male,1.96,No Evidence,FALSE,OPS_007,18542
+P251,Male,0.52,Definite,FALSE,OPS_007,95886
+P252,Female,0.54,Definite,FALSE,OPS_007,19376
+P253,Male,1.88,Definite,FALSE,OPS_007,40370
+P254,Male,1.66,Indeterminate,FALSE,OPS_007,4318
+P255,Female,0.1,Definite,FALSE,OPS_007,11398
+P256,Male,2.18,Definite,FALSE,OPS_007,15122
+P257,Female,0.53,Definite,FALSE,OPS_007,20150
+P258,Female,8.46,Suspected,FALSE,OPS_007,21444
+P259,Female,4.24,Definite,FALSE,OPS_007,26080
+P260,Male,0.1,Definite,FALSE,OPS_007,68936
+P261,Male,1.3,Definite,FALSE,OPS_007,21520
+W1,NA,NA,NA,TRUE,VAP_7,736256
+W2,NA,NA,NA,TRUE,VAP_7,690018
+W3,NA,NA,NA,TRUE,VAP_7,510714
+W4,NA,NA,NA,TRUE,VAP_4,238488
+W5,NA,NA,NA,TRUE,VAP_3,183010
+W6,NA,NA,NA,TRUE,VAP_5,1143514
+W7,NA,NA,NA,TRUE,VAP_5,805424
+W8,NA,NA,NA,TRUE,VAP_5,653564
+W9,NA,NA,NA,TRUE,VAP_5,420124
+W10,NA,NA,NA,TRUE,VAP_6,107600
+W11,NA,NA,NA,TRUE,VAP_6,172162
+W12,NA,NA,NA,TRUE,VAP_8,495696
+W13,NA,NA,NA,TRUE,VAP_8,49348
+W14,NA,NA,NA,TRUE,VAP_8,119560
+W15,NA,NA,NA,TRUE,VAP_8,111982
+W16,NA,NA,NA,TRUE,VAP_9,197648
+W17,NA,NA,NA,TRUE,VAP_9,188864
+W18,NA,NA,NA,TRUE,OPS_006,73604
+W19,NA,NA,NA,TRUE,OPS_007,3277126
+W20,NA,NA,NA,TRUE,OPS_007,2763626
+W21,NA,NA,NA,TRUE,OPS_001,207622
+W22,NA,NA,NA,TRUE,VAP_2019,216114
+W23,NA,NA,NA,TRUE,VAP_2019,89382
+W24,NA,NA,NA,TRUE,VAP_2019,60982
+W25,NA,NA,NA,TRUE,VAP_2019,65684
+W26,NA,NA,NA,TRUE,VAP_2019,82122
+W27,NA,NA,NA,TRUE,VAP_2019,171992
+W28,NA,NA,NA,TRUE,OPS_054,1387288
+W29,NA,NA,NA,TRUE,OPS_054,118414
+W30,NA,NA,NA,TRUE,OPS016,503828
+W31,NA,NA,NA,TRUE,OPS016,5104
+W32,NA,NA,NA,TRUE,OPS016,11514
